@@ -1,0 +1,102 @@
+﻿@{
+    ViewData["Title"] = "Trang chủ";
+}
+
+<div class="container-fluid">
+    <div class="row mb-4">
+        <div class="col-md-3">
+            <div class="card bg-primary text-white">
+                <div class="card-body">
+                    <h5>Tổng số sinh viên</h5>
+                    <h2>150</h2>
+                    <i class='bx bx-user-circle float-end fs-1'></i>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card bg-success text-white">
+                <div class="card-body">
+                    <h5>Giảng viên</h5>
+                    <h2>25</h2>
+                    <i class='bx bx-user float-end fs-1'></i>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card bg-warning text-white">
+                <div class="card-body">
+                    <h5>Doanh nghiệp</h5>
+                    <h2>45</h2>
+                    <i class='bx bx-building-house float-end fs-1'></i>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card bg-info text-white">
+                <div class="card-body">
+                    <h5>Đề tài</h5>
+                    <h2>120</h2>
+                    <i class='bx bx-folder float-end fs-1'></i>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-8">
+            <div class="card">
+                <div class="card-header">
+                    <h5 class="card-title">Tiến độ thực tập</h5>
+                </div>
+                <div class="card-body">
+                    <div class="table-responsive">
+                        <table class="table table-hover">
+                            <thead>
+                                <tr>
+                                    <th>Mã SV</th>
+                                    <th>Họ tên</th>
+                                    <th>Đề tài</th>
+                                    <th>Tiến độ</th>
+                                    <th>Trạng thái</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>SV001</td>
+                                    <td>Nguyễn Văn A</td>
+                                    <td>Xây dựng website TMĐT</td>
+                                    <td>
+                                        <div class="progress">
+                                            <div class="progress-bar" style="width: 70%">70%</div>
+                                        </div>
+                                    </td>
+                                    <td><span class="badge bg-success">Đang thực hiện</span></td>
+                                </tr>
+                                <!-- Thêm các dòng khác tương tự -->
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card">
+                <div class="card-header">
+                    <h5 class="card-title">Thông báo mới</h5>
+                </div>
+                <div class="card-body">
+                    <div class="notification-list">
+                        <div class="notification-item">
+                            <i class='bx bx-bell text-primary'></i>
+                            <div class="notification-content">
+                                <p>Deadline nộp báo cáo tuần</p>
+                                <small class="text-muted">2 giờ trước</small>
+                            </div>
+                        </div>
+                        <!-- Thêm các thông báo khác -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

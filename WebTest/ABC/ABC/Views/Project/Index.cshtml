@@ -1,0 +1,204 @@
+@{
+    ViewData["Title"] = "Quản lý Đề tài";
+}
+
+<div class="app-container">
+    <div class="content-wrapper">
+        <div class="row p-4">
+            <div class="@(ViewBag.ShowForm == true ? "col-md-8" : "col-md-12")" id="listSection">
+                <div class="card">
+                    <div class="card-header d-flex justify-content-between align-items-center">
+                        <h5 class="card-title mb-0">Danh sách đề tài thực tập</h5>
+                        <button class="btn btn-primary hover-scale" onclick="toggleForm()">
+                            <i class='bx bx-plus'></i> Thêm đề tài
+                        </button>
+                    </div>
+                    <div class="card-body">
+                        <div class="row mb-4">
+                            <div class="col-md-4">
+                                <div class="input-group">
+                                    <span class="input-group-text bg-white border-end-0">
+                                        <i class='bx bx-search'></i>
+                                    </span>
+                                    <input type="text" class="form-control border-start-0 ps-0" placeholder="Tìm kiếm đề tài...">
+                                </div>
+                            </div>
+                            <div class="col-md-8 text-end">
+                                <div class="btn-group">
+                                    <button class="btn btn-outline-secondary">
+                                        <i class='bx bx-export'></i> Xuất Excel
+                                    </button>
+                                    <button class="btn btn-outline-secondary">
+                                        <i class='bx bxs-file-pdf'></i> Xuất PDF
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="table-responsive">
+                            <table class="table table-hover">
+                                <thead>
+                                    <tr>
+                                        <th>Mã đề tài</th>
+                                        <th>Tên đề tài</th>
+                                        <th>Sinh viên</th>
+                                        <th>GVHD</th>
+                                        <th>Doanh nghiệp</th>
+                                        <th>Trạng thái</th>
+                                        <th>Thao tác</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>DT001</td>
+                                        <td>Xây dựng website quản lý thực tập</td>
+                                        <td>Nguyễn Văn A</td>
+                                        <td>ThS. Trần B</td>
+                                        <td>Công ty XYZ</td>
+                                        <td><span class="badge bg-success">Đang thực hiện</span></td>
+                                        <td>
+                                            <button class="btn btn-sm btn-info hover-scale" title="Xem chi tiết">
+                                                <i class='bx bx-detail'></i>
+                                            </button>
+                                            <button class="btn btn-sm btn-warning hover-scale" title="Chỉnh sửa">
+                                                <i class='bx bx-edit'></i>
+                                            </button>
+                                            <button class="btn btn-sm btn-danger hover-scale" title="Xóa">
+                                                <i class='bx bx-trash'></i>
+                                            </button>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+
+                        <nav aria-label="Page navigation" class="mt-4">
+                            <ul class="pagination justify-content-end">
+                                <li class="page-item disabled">
+                                    <a class="page-link" href="#"><i class='bx bx-chevron-left'></i></a>
+                                </li>
+                                <li class="page-item active"><a class="page-link" href="#">1</a></li>
+                                <li class="page-item"><a class="page-link" href="#">2</a></li>
+                                <li class="page-item"><a class="page-link" href="#">3</a></li>
+                                <li class="page-item">
+                                    <a class="page-link" href="#"><i class='bx bx-chevron-right'></i></a>
+                                </li>
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4" id="formSection" style="display: none;">
+                <div class="card modern-form">
+                    <div class="card-header d-flex justify-content-between align-items-center">
+                        <h5 class="card-title mb-0">
+                            <i class='bx bx-book-add me-2'></i>Thêm đề tài mới
+                        </h5>
+                        <button type="button" class="btn btn-outline-secondary btn-sm" onclick="toggleForm()">
+                            <i class='bx bx-x'></i>
+                        </button>
+                    </div>
+                    <div class="card-body">
+                        <form asp-controller="Project" asp-action="Create" method="post">
+                            <div class="row g-4">
+                                <div class="col-md-12">
+                                    <div class="form-floating">
+                                        <input type="text" class="form-control" id="projectId" name="ProjectId" required>
+                                        <label for="projectId">Mã đề tài</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="form-floating">
+                                        <input type="text" class="form-control" id="projectName" name="ProjectName" required>
+                                        <label for="projectName">Tên đề tài</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="form-floating">
+                                        <textarea class="form-control" id="description" name="Description" style="height: 100px"></textarea>
+                                        <label for="description">Mô tả đề tài</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="form-floating">
+                                        <select class="form-select" id="studentId" name="StudentId" required>
+                                            <option value="">Chọn sinh viên</option>
+                                            <option value="1">Nguyễn Văn A - CNTT1</option>
+                                            <option value="2">Trần Thị B - CNTT2</option>
+                                        </select>
+                                        <label for="studentId">Sinh viên thực hiện</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="form-floating">
+                                        <select class="form-select" id="teacherId" name="TeacherId" required>
+                                            <option value="">Chọn giảng viên</option>
+                                            <option value="1">TS. Nguyễn Văn X</option>
+                                            <option value="2">ThS. Trần Thị Y</option>
+                                        </select>
+                                        <label for="teacherId">Giảng viên hướng dẫn</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="form-floating">
+                                        <select class="form-select" id="companyId" name="CompanyId" required>
+                                            <option value="">Chọn doanh nghiệp</option>
+                                            <option value="1">Công ty TNHH ABC</option>
+                                            <option value="2">Công ty CP XYZ</option>
+                                        </select>
+                                        <label for="companyId">Doanh nghiệp</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="form-floating">
+                                        <select class="form-select" id="status" name="Status" required>
+                                            <option value="">Chọn trạng thái</option>
+                                            <option>Chưa bắt đầu</option>
+                                            <option>Đang thực hiện</option>
+                                            <option>Hoàn thành</option>
+                                        </select>
+                                        <label for="status">Trạng thái</label>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="text-end mt-4">
+                                <button type="button" class="btn btn-outline-secondary me-2" onclick="toggleForm()">
+                                    <i class='bx bx-x'></i> Hủy
+                                </button>
+                                <button type="submit" class="btn btn-primary hover-scale">
+                                    <i class='bx bx-save'></i> Lưu đề tài
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts 
+{
+    <script>
+        function toggleForm() {
+            const listSection = document.getElementById('listSection');
+            const formSection = document.getElementById('formSection');
+            
+            if (formSection.style.display === 'none') {
+                listSection.className = 'col-md-8';
+                formSection.style.display = 'block';
+                formSection.classList.remove('hide');
+                formSection.classList.add('show', 'slide-in');
+            } else {
+                listSection.className = 'col-md-12';
+                formSection.classList.remove('show');
+                formSection.classList.add('hide');
+                setTimeout(() => {
+                    formSection.style.display = 'none';
+                }, 300);
+            }
+        }
+    </script>
+}

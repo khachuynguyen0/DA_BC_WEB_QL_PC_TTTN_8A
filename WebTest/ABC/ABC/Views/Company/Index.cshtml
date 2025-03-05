@@ -1,0 +1,205 @@
+@{
+    ViewData["Title"] = "Quản lý Doanh nghiệp";
+}
+
+<div class="app-container">
+    <div class="content-wrapper">
+        <div class="row p-4">
+            <div class="@(ViewBag.ShowForm == true ? "col-md-8" : "col-md-12")" id="listSection">
+                <div class="card">
+                    <div class="card-header d-flex justify-content-between align-items-center">
+                        <h5 class="card-title mb-0">Danh sách doanh nghiệp hợp tác</h5>
+                        <button class="btn btn-primary hover-scale" onclick="toggleForm()">
+                            <i class='bx bx-plus'></i> Thêm doanh nghiệp
+                        </button>
+                    </div>
+                    <div class="card-body">
+                        <div class="row mb-4">
+                            <div class="col-md-4">
+                                <div class="input-group">
+                                    <span class="input-group-text bg-white border-end-0">
+                                        <i class='bx bx-search'></i>
+                                    </span>
+                                    <input type="text" class="form-control border-start-0 ps-0" placeholder="Tìm kiếm doanh nghiệp...">
+                                </div>
+                            </div>
+                            <div class="col-md-8 text-end">
+                                <div class="btn-group">
+                                    <button class="btn btn-outline-secondary">
+                                        <i class='bx bx-export'></i> Xuất Excel
+                                    </button>
+                                    <button class="btn btn-outline-secondary">
+                                        <i class='bx bxs-file-pdf'></i> Xuất PDF
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="table-responsive">
+                            <table class="table table-hover">
+                                <thead>
+                                    <tr>
+                                        <th>Mã DN</th>
+                                        <th>Tên doanh nghiệp</th>
+                                        <th>Địa chỉ</th>
+                                        <th>Lĩnh vực</th>
+                                        <th>Người liên hệ</th>
+                                        <th>SĐT</th>
+                                        <th>Số SV tiếp nhận</th>
+                                        <th>Thao tác</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>DN001</td>
+                                        <td>Công ty TNHH ABC</td>
+                                        <td>123 Nguyễn Văn Linh, Đà Nẵng</td>
+                                        <td>Phần mềm</td>
+                                        <td>Nguyễn Văn X</td>
+                                        <td>0987654321</td>
+                                        <td><span class="badge bg-success">5</span></td>
+                                        <td>
+                                            <button class="btn btn-sm btn-info hover-scale" title="Xem chi tiết">
+                                                <i class='bx bx-detail'></i>
+                                            </button>
+                                            <button class="btn btn-sm btn-warning hover-scale" title="Chỉnh sửa">
+                                                <i class='bx bx-edit'></i>
+                                            </button>
+                                            <button class="btn btn-sm btn-danger hover-scale" title="Xóa">
+                                                <i class='bx bx-trash'></i>
+                                            </button>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+
+                        <nav aria-label="Page navigation" class="mt-4">
+                            <ul class="pagination justify-content-end">
+                                <li class="page-item disabled">
+                                    <a class="page-link" href="#"><i class='bx bx-chevron-left'></i></a>
+                                </li>
+                                <li class="page-item active"><a class="page-link" href="#">1</a></li>
+                                <li class="page-item"><a class="page-link" href="#">2</a></li>
+                                <li class="page-item"><a class="page-link" href="#">3</a></li>
+                                <li class="page-item">
+                                    <a class="page-link" href="#"><i class='bx bx-chevron-right'></i></a>
+                                </li>
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4" id="formSection" style="display: none;">
+                <div class="card modern-form">
+                    <div class="card-header d-flex justify-content-between align-items-center">
+                        <h5 class="card-title mb-0">
+                            <i class='bx bx-building-house me-2'></i>Thêm doanh nghiệp mới
+                        </h5>
+                        <button type="button" class="btn btn-outline-secondary btn-sm" onclick="toggleForm()">
+                            <i class='bx bx-x'></i>
+                        </button>
+                    </div>
+                    <div class="card-body">
+                        <form asp-controller="Company" asp-action="Create" method="post">
+                            <div class="row g-4">
+                                <div class="col-md-12">
+                                    <div class="form-floating">
+                                        <input type="text" class="form-control" id="companyId" name="CompanyId" required>
+                                        <label for="companyId">Mã doanh nghiệp</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="form-floating">
+                                        <input type="text" class="form-control" id="companyName" name="CompanyName" required>
+                                        <label for="companyName">Tên doanh nghiệp</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="form-floating">
+                                        <textarea class="form-control" id="address" name="Address" style="height: 100px" required></textarea>
+                                        <label for="address">Địa chỉ</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="form-floating">
+                                        <select class="form-select" id="field" name="Field" required>
+                                            <option value="">Chọn lĩnh vực</option>
+                                            <option>Phần mềm</option>
+                                            <option>Phần cứng</option>
+                                            <option>Tích hợp hệ thống</option>
+                                        </select>
+                                        <label for="field">Lĩnh vực</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="form-floating">
+                                        <input type="text" class="form-control" id="contactPerson" name="ContactPerson" required>
+                                        <label for="contactPerson">Người liên hệ</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="form-floating">
+                                        <input type="tel" class="form-control" id="phone" name="Phone" required>
+                                        <label for="phone">Số điện thoại</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="form-floating">
+                                        <input type="email" class="form-control" id="email" name="Email" required>
+                                        <label for="email">Email</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="form-floating">
+                                        <input type="url" class="form-control" id="website" name="Website">
+                                        <label for="website">Website</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="form-floating">
+                                        <input type="number" class="form-control" id="maxInterns" name="MaxInterns" required>
+                                        <label for="maxInterns">Số lượng SV có thể tiếp nhận</label>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="text-end mt-4">
+                                <button type="button" class="btn btn-outline-secondary me-2" onclick="toggleForm()">
+                                    <i class='bx bx-x'></i> Hủy
+                                </button>
+                                <button type="submit" class="btn btn-primary hover-scale">
+                                    <i class='bx bx-save'></i> Lưu thông tin
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        function toggleForm() {
+            const listSection = document.getElementById('listSection');
+            const formSection = document.getElementById('formSection');
+            
+            if (formSection.style.display === 'none') {
+                listSection.className = 'col-md-8';
+                formSection.style.display = 'block';
+                formSection.classList.remove('hide');
+                formSection.classList.add('show', 'slide-in');
+            } else {
+                listSection.className = 'col-md-12';
+                formSection.classList.remove('show');
+                formSection.classList.add('hide');
+                setTimeout(() => {
+                    formSection.style.display = 'none';
+                }, 300);
+            }
+        }
+    </script>
+}

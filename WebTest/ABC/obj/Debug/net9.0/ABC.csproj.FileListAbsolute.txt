@@ -1,0 +1,7 @@
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Lap trinh web\WebTest\ABC\obj\Debug\net9.0\ABC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Lap trinh web\WebTest\ABC\obj\Debug\net9.0\ABC.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Lap trinh web\WebTest\ABC\obj\Debug\net9.0\ABC.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Lap trinh web\WebTest\ABC\obj\Debug\net9.0\ABC.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Lap trinh web\WebTest\ABC\obj\Debug\net9.0\ABC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Lap trinh web\WebTest\ABC\obj\Debug\net9.0\ABC.RazorAssemblyInfo.cache
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Lap trinh web\WebTest\ABC\obj\Debug\net9.0\ABC.RazorAssemblyInfo.cs

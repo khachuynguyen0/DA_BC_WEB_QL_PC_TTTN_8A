@@ -1,0 +1,83 @@
+@{
+    ViewData["Title"] = "Đánh giá và Báo cáo";
+}
+
+<div class="container-fluid">
+    <div class="row mb-4">
+        <div class="col-md-12">
+            <ul class="nav nav-tabs" role="tablist">
+                <li class="nav-item">
+                    <a class="nav-link active" data-bs-toggle="tab" href="#weekly">Báo cáo tuần</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" data-bs-toggle="tab" href="#final">Đánh giá cuối kỳ</a>
+                </li>
+            </ul>
+
+            <div class="tab-content mt-3">
+                <div id="weekly" class="tab-pane active">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5>Báo cáo tuần</h5>
+                            <div class="table-responsive">
+                                <table class="table">
+                                    <thead>
+                                        <tr>
+                                            <th>Tuần</th>
+                                            <th>Sinh viên</th>
+                                            <th>Nội dung công việc</th>
+                                            <th>Kết quả</th>
+                                            <th>Nhận xét GVHD</th>
+                                            <th>Trạng thái</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>Tuần 1</td>
+                                            <td>Nguyễn Văn A</td>
+                                            <td>Phân tích yêu cầu</td>
+                                            <td>Hoàn thành 80%</td>
+                                            <td>Cần cải thiện phần...</td>
+                                            <td><span class="badge bg-success">Đã duyệt</span></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div id="final" class="tab-pane fade">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5>Đánh giá cuối kỳ</h5>
+                            <form>
+                                <div class="row mb-3">
+                                    <div class="col-md-6">
+                                        <label class="form-label">Sinh viên</label>
+                                        <select class="form-select">
+                                            <option>Chọn sinh viên</option>
+                                        </select>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <label class="form-label">Điểm số</label>
+                                        <input type="number" class="form-control" max="10" min="0">
+                                    </div>
+                                </div>
+                                <div class="mb-3">
+                                    <label class="form-label">Nhận xét của GVHD</label>
+                                    <textarea class="form-control" rows="3"></textarea>
+                                </div>
+                                <div class="mb-3">
+                                    <label class="form-label">Nhận xét của doanh nghiệp</label>
+                                    <textarea class="form-control" rows="3"></textarea>
+                                </div>
+                                <button type="submit" class="btn btn-primary">Lưu đánh giá</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
