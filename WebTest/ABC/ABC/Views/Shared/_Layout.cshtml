@@ -1,5 +1,6 @@
-﻿<!DOCTYPE html>
+﻿﻿<!DOCTYPE html>
 <html lang="vi">
+
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -9,6 +10,7 @@
     <link href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css" rel="stylesheet">
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
 </head>
+
 <body id="body-pd">
     <header class="header" id="header">
         <div class="header_toggle">
@@ -24,39 +26,34 @@
             <div>
                 <div class="nav_logo">
                     <i class='bx bx-layer nav_logo-icon'></i>
-                    <span class="nav_logo-name">QLTT System</span>
+                    <span class="nav_logo-name">Quản Lý Thực Tập</span>
                 </div>
                 <div class="nav_list">
                     @{
                         var currentController = ViewContext.RouteData.Values["Controller"]?.ToString();
                     }
-                    <a href="@Url.Action("Index", "Home")" 
-                        class="nav_link @(currentController == "Home" ? "active" : "")"
-                        id="nav-home">
+                    <a href="@Url.Action("Index", "Home")"
+                        class="nav_link @(currentController == "Home" ? "active" : "")" id="nav-home">
                         <i class='bx bx-grid-alt nav_icon'></i>
                         <span class="nav_name">Dashboard</span>
                     </a>
-                    <a href="@Url.Action("Index", "Student")" 
-                        class="nav_link @(currentController == "Student" ? "active" : "")"
-                        id="nav-student">
+                    <a href="@Url.Action("Index", "Student")"
+                        class="nav_link @(currentController == "Student" ? "active" : "")" id="nav-student">
                         <i class='bx bx-user nav_icon'></i>
                         <span class="nav_name">Sinh Viên</span>
                     </a>
-                    <a href="@Url.Action("Index", "Teacher")" 
-                        class="nav_link @(currentController == "Teacher" ? "active" : "")"
-                        id="nav-teacher">
+                    <a href="@Url.Action("Index", "Teacher")"
+                        class="nav_link @(currentController == "Teacher" ? "active" : "")" id="nav-teacher">
                         <i class='bx bx-message-square-detail nav_icon'></i>
                         <span class="nav_name">Giảng Viên</span>
                     </a>
-                    <a href="@Url.Action("Index", "Company")" 
-                        class="nav_link @(currentController == "Company" ? "active" : "")"
-                        id="nav-company">
+                    <a href="@Url.Action("Index", "Company")"
+                        class="nav_link @(currentController == "Company" ? "active" : "")" id="nav-company">
                         <i class='bx bx-building nav_icon'></i>
                         <span class="nav_name">Doanh Nghiệp</span>
                     </a>
-                    <a href="@Url.Action("Index", "Project")" 
-                        class="nav_link @(currentController == "Project" ? "active" : "")"
-                        id="nav-project">
+                    <a href="@Url.Action("Index", "Project")"
+                        class="nav_link @(currentController == "Project" ? "active" : "")" id="nav-project">
                         <i class='bx bx-folder nav_icon'></i>
                         <span class="nav_name">Đề Tài</span>
                     </a>
@@ -70,6 +67,7 @@
     </div>
 
     <div class="main-content">
+
         <main role="main">
             @RenderBody()
         </main>
@@ -82,7 +80,7 @@
 
     <script>
         // Ensure current page nav link is highlighted
-        document.addEventListener('DOMContentLoaded', function() {
+        document.addEventListener('DOMContentLoaded', function () {
             const currentController = '@currentController?.ToLower()';
             if (currentController) {
                 const navItem = document.getElementById(`nav-${currentController}`);
@@ -94,4 +92,5 @@
         });
     </script>
 </body>
+
 </html>

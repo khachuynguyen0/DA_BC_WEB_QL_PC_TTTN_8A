@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\OneDrive\\Máy tính\\Code\\All_File\\Lap trinh web\\WebTest\\ABC\\ABC\\ABC.csproj": {}
+    "C:\\Users\\ASUS\\OneDrive\\Máy tính\\Code\\All_File\\Test\\WebTest\\ABC\\ABC\\ABC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\OneDrive\\Máy tính\\Code\\All_File\\Lap trinh web\\WebTest\\ABC\\ABC\\ABC.csproj": {
+    "C:\\Users\\ASUS\\OneDrive\\Máy tính\\Code\\All_File\\Test\\WebTest\\ABC\\ABC\\ABC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\Code\\All_File\\Lap trinh web\\WebTest\\ABC\\ABC\\ABC.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\Code\\All_File\\Test\\WebTest\\ABC\\ABC\\ABC.csproj",
         "projectName": "ABC",
-        "projectPath": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\Code\\All_File\\Lap trinh web\\WebTest\\ABC\\ABC\\ABC.csproj",
+        "projectPath": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\Code\\All_File\\Test\\WebTest\\ABC\\ABC\\ABC.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\Code\\All_File\\Lap trinh web\\WebTest\\ABC\\ABC\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\OneDrive\\Máy tính\\Code\\All_File\\Test\\WebTest\\ABC\\ABC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

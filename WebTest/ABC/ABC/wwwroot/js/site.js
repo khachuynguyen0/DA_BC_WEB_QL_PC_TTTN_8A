@@ -1,4 +1,4 @@
-﻿document.addEventListener("DOMContentLoaded", function(event) {
+﻿﻿document.addEventListener("DOMContentLoaded", function(event) {
     // Navigation toggle with smooth animation
     const showNavbar = (toggleId, navId, bodyId, headerId) => {
         const toggle = document.getElementById(toggleId),
@@ -141,5 +141,23 @@
                 }
             });
         });
+    });
+
+    document.getElementById('searchButton').addEventListener('click', function() {
+        var lecturerCode = document.getElementById('lecturerCode').value;
+        // Implement your search logic here
+        console.log('Searching for lecturer code:', lecturerCode);
+
+        // AJAX call to search for the lecturer code
+        fetch(`/Home/SearchLecturer?code=${lecturerCode}`)
+            .then(response => response.json())
+            .then(data => {
+                // Handle the search results here
+                console.log('Search results:', data);
+            })
+            .catch(error => {
+                console.error('Error fetching search results:', error);
+            });
+
     });
 });

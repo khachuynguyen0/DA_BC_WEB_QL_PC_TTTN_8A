@@ -13,10 +13,20 @@ namespace ABC.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
-        {
-            return View();
-        }
+public IActionResult Index()
+{
+    return View();
+}
+
+[HttpGet]
+public IActionResult SearchLecturer(string code)
+{
+    // Implement search logic here
+    // For now, return a dummy response
+    var result = new { LecturerCode = code, Name = "John Doe", Subject = "Mathematics" };
+    return Json(result);
+}
+
 
         public IActionResult Privacy()
         {
