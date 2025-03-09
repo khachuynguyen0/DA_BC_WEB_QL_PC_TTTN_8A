@@ -1,0 +1,180 @@
+@{
+    ViewData["Title"] = "Cài Đặt Tài Khoản";
+}
+
+<div class="app-container">
+    <div class="content-wrapper">
+        <div class="row p-4">
+            <div class="@(ViewBag.ShowForm == true ? "col-md-8" : "col-md-12")" id="listSection">
+                <div class="card">
+                    <div class="card-header d-flex justify-content-between align-items-center">
+                        <h5 class="card-title mb-0">Danh sách tài khoản</h5>
+                        <button class="btn btn-primary hover-scale" onclick="toggleForm()">
+                            <i class='bx bx-plus'></i> Thêm tài khoản
+                        </button>
+                    </div>
+                    <div class="card-body">
+                        <div class="row mb-4">
+                            <div class="col-md-4">
+                                <div class="input-group">
+                                    <span class="input-group-text bg-white border-end-0">
+                                        <i class='bx bx-search'></i>
+                                    </span>
+                                    <input type="text" class="form-control border-start-0 ps-0"
+                                        placeholder="Tìm kiếm tài khoản...">
+                                </div>
+                            </div>
+                            <div class="col-md-8 text-end">
+                                <div class="btn-group">
+                                    <button class="btn btn-outline-secondary">
+                                        <i class='bx bx-export'></i> Xuất Excel
+                                    </button>
+                                    <button class="btn btn-outline-secondary">
+                                        <i class='bx bxs-file-pdf'></i> Xuất PDF
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="table-responsive">
+                            <table class="table table-hover">
+                                <thead>
+                                    <tr>
+                                        <th>Mã TK</th>
+                                        <th>Tên tài khoản</th>
+                                        <th>Mật khẩu</th>
+                                        <th>Mã quyền</th>
+                                        <th>Thao tác</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>TK001</td>
+                                        <td>admin</td>
+                                        <td>••••••••</td>
+                                        <td>Q001</td>
+                                        <td>
+                                            <button class="btn btn-sm btn-danger hover-scale" title="Xóa"
+                                                onclick="confirmDelete('TK001')">
+                                                <i class='bx bx-trash'></i>
+                                            </button>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>TK002</td>
+                                        <td>user</td>
+                                        <td>••••••••</td>
+                                        <td>Q002</td>
+                                        <td>
+                                            <button class="btn btn-sm btn-danger hover-scale" title="Xóa"
+                                                onclick="confirmDelete('TK002')">
+                                                <i class='bx bx-trash'></i>
+                                            </button>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+
+                        <nav aria-label="Page navigation" class="mt-4">
+                            <ul class="pagination justify-content-end">
+                                <li class="page-item disabled">
+                                    <a class="page-link" href="#"><i class='bx bx-chevron-left'></i></a>
+                                </li>
+                                <li class="page-item active"><a class="page-link" href="#">1</a></li>
+                                <li class="page-item"><a class="page-link" href="#">2</a></li>
+                                <li class="page-item"><a class="page-link" href="#">3</a></li>
+                                <li class="page-item">
+                                    <a class="page-link" href="#"><i class='bx bx-chevron-right'></i></a>
+                                </li>
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4" id="formSection" style="display: none;">
+                <div class="card modern-form">
+                    <div class="card-header d-flex justify-content-between align-items-center">
+                        <h5 class="card-title mb-0">
+                            <i class='bx bx-user-plus me-2'></i>Thêm tài khoản mới
+                        </h5>
+                        <button type="button" class="btn btn-outline-secondary btn-sm" onclick="toggleForm()">
+                            <i class='bx bx-x'></i>
+                        </button>
+                    </div>
+                    <div class="card-body">
+                        <form asp-controller="Account" asp-action="Create" method="post">
+                            <div class="row g-4">
+                                <div class="col-md-12">
+                                    <div class="form-floating">
+                                        <input type="text" class="form-control" id="username" name="Username" required>
+                                        <label for="username">Tên Tài Khoản</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="form-floating">
+                                        <input type="password" class="form-control" id="password" name="Password" required>
+                                        <label for="password">Mật Khẩu</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="form-floating">
+                                        <input type="password" class="form-control" id="confirmPassword" name="ConfirmPassword" required>
+                                        <label for="confirmPassword">Mật Khẩu (Nhập Lại)</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="form-floating">
+                                        <select class="form-select" id="roleId" name="RoleId" required>
+                                            <option value="">-- Chọn quyền --</option>
+                                            <option value="Q001">Admin</option>
+                                            <option value="Q002">User</option>
+                                        </select>
+                                        <label for="roleId">Quyền</label>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="text-end mt-4">
+                                <button type="button" class="btn btn-outline-secondary me-2" onclick="toggleForm()">
+                                    <i class='bx bx-x'></i> Hủy
+                                </button>
+                                <button type="submit" class="btn btn-primary hover-scale">
+                                    <i class='bx bx-save'></i> Lưu thông tin
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        function toggleForm() {
+            const formSection = document.getElementById('formSection');
+            const listSection = document.getElementById('listSection');
+
+            if (formSection.style.display === 'none') {
+                listSection.className = 'col-md-8';
+                formSection.style.display = 'block';
+                setTimeout(() => {
+                    formSection.classList.add('show');
+                }, 50);
+            } else {
+                listSection.className = 'col-md-12';
+                formSection.classList.remove('show');
+                formSection.style.display = 'none';
+            }
+        }
+
+        function confirmDelete(accountId) {
+            if (confirm('Bạn có chắc muốn xóa tài khoản này không?')) {
+                // Proceed with deletion
+                alert('Đã xóa tài khoản có mã: ' + accountId);
+            }
+        }
+    </script>
+}

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\M\u00E1y t\u00EDnh\\Code\\All_File\\Test\\WebTest\\ABC\\",
+  "WorkspaceRootPath": "D:\\Study_Everything_43GB\\Devoloper_Newbie_3GB\\Languages_Base\\Lap_Trinh_Web\\HK8A_Web_CSDL\\DA_BC_WEB_QL_PC_TTTN_8A\\WebTest\\ABC\\",
   "Documents": [],
   "DocumentGroupContainers": [
     {
@@ -11,6 +11,10 @@
           "DockedWidth": 200,
           "SelectedChildIndex": -1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"

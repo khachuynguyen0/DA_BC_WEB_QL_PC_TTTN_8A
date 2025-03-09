@@ -1,0 +1,289 @@
+@{
+    ViewData["Title"] = "Người Phụ Trách";
+}
+
+<div class="app-container">
+    <div class="content-wrapper">
+        <div class="row p-4">
+            <div class="@(ViewBag.ShowForm == true ? "col-md-8" : "col-md-12")" id="listSection">
+                <div class="card">
+                    <div class="card-header d-flex justify-content-between align-items-center">
+                        <h5 class="card-title mb-0">Danh sách người phụ trách</h5>
+                        <button class="btn btn-primary hover-scale" onclick="toggleForm()">
+                            <i class='bx bx-plus'></i> Thêm người phụ trách
+                        </button>
+                    </div>
+                    <div class="card-body">
+                        <div class="row mb-4">
+                            <div class="col-md-4">
+                                <div class="input-group">
+                                    <span class="input-group-text bg-white border-end-0">
+                                        <i class='bx bx-search'></i>
+                                    </span>
+                                    <input type="text" class="form-control border-start-0 ps-0"
+                                        placeholder="Tìm kiếm người phụ trách...">
+                                </div>
+                            </div>
+                            <div class="col-md-8 text-end">
+                                <div class="btn-group">
+                                    <button class="btn btn-outline-secondary">
+                                        <i class='bx bx-export'></i> Xuất Excel
+                                    </button>
+                                    <button class="btn btn-outline-secondary">
+                                        <i class='bx bxs-file-pdf'></i> Xuất PDF
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="table-responsive">
+                            <table class="table table-hover">
+                                <thead>
+                                    <tr>
+                                        <th>Mã NPT</th>
+                                        <th>Tên người phụ trách</th>
+                                        <th>Chức vụ</th>
+                                        <th>SĐT</th>
+                                        <th>Email</th>
+                                        <th>Tên doanh nghiệp</th>
+                                        <th>Thao tác</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>NPT001</td>
+                                        <td>Nguyễn Văn A</td>
+                                        <td>Trưởng phòng</td>
+                                        <td>0987654321</td>
+                                        <td>nguyenvana@email.com</td>
+                                        <td>Công ty TNHH ABC</td>
+                                        <td>
+                                            <button class="btn btn-sm btn-warning hover-scale" title="Chỉnh sửa"
+                                                onclick="editManager('NPT001')">
+                                                <i class='bx bx-edit'></i>
+                                            </button>
+                                            <button class="btn btn-sm btn-danger hover-scale" title="Xóa"
+                                                onclick="confirmDelete('NPT001')">
+                                                <i class='bx bx-trash'></i>
+                                            </button>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+
+                        <nav aria-label="Page navigation" class="mt-4">
+                            <ul class="pagination justify-content-end">
+                                <li class="page-item disabled">
+                                    <a class="page-link" href="#"><i class='bx bx-chevron-left'></i></a>
+                                </li>
+                                <li class="page-item active"><a class="page-link" href="#">1</a></li>
+                                <li class="page-item"><a class="page-link" href="#">2</a></li>
+                                <li class="page-item"><a class="page-link" href="#">3</a></li>
+                                <li class="page-item">
+                                    <a class="page-link" href="#"><i class='bx bx-chevron-right'></i></a>
+                                </li>
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4" id="formSection" style="display: none;">
+                <div class="card modern-form">
+                    <div class="card-header d-flex justify-content-between align-items-center">
+                        <h5 class="card-title mb-0">
+                            <i class='bx bx-user-plus me-2'></i>Thêm người phụ trách
+                        </h5>
+                        <button type="button" class="btn btn-outline-secondary btn-sm" onclick="toggleForm()">
+                            <i class='bx bx-x'></i>
+                        </button>
+                    </div>
+                    <div class="card-body">
+                        <form asp-controller="Manager" asp-action="Create" method="post">
+                            <div class="row g-4">
+                                <div class="col-md-12">
+                                    <div class="form-floating">
+                                        <input type="text" class="form-control" id="managerName" name="ManagerName" required>
+                                        <label for="managerName">Tên Người Phụ Trách</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="form-floating">
+                                        <input type="text" class="form-control" id="position" name="Position" required>
+                                        <label for="position">Chức Vụ</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="form-floating">
+                                        <input type="tel" class="form-control" id="phone" name="Phone" required>
+                                        <label for="phone">SĐT</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="form-floating">
+                                        <input type="email" class="form-control" id="email" name="Email" required>
+                                        <label for="email">Email</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="form-floating">
+                                        <select class="form-select" id="companyName" name="CompanyName" required>
+                                            <option value="">-- Chọn doanh nghiệp --</option>
+                                            <option value="Công ty TNHH ABC">Công ty TNHH ABC</option>
+                                            <option value="Công ty XYZ">Công ty XYZ</option>
+                                            <option value="Công ty DEF">Công ty DEF</option>
+                                        </select>
+                                        <label for="companyName">Tên Doanh Nghiệp</label>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="text-end mt-4">
+                                <button type="button" class="btn btn-outline-secondary me-2" onclick="toggleForm()">
+                                    <i class='bx bx-x'></i> Hủy
+                                </button>
+                                <button type="submit" class="btn btn-primary hover-scale">
+                                    <i class='bx bx-save'></i> Lưu thông tin
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4" id="editFormSection" style="display: none;">
+                <div class="card modern-form">
+                    <div class="card-header d-flex justify-content-between align-items-center">
+                        <h5 class="card-title mb-0">
+                            <i class='bx bx-edit-alt me-2'></i>Thông tin người phụ trách
+                        </h5>
+                        <button type="button" class="btn btn-outline-secondary btn-sm" onclick="toggleEditForm()">
+                            <i class='bx bx-x'></i>
+                        </button>
+                    </div>
+                    <div class="card-body">
+                        <form asp-controller="Manager" asp-action="Edit" method="post">
+                            <div class="row g-4">
+                                <div class="col-md-12">
+                                    <div class="form-floating">
+                                        <input type="text" class="form-control" id="editManagerId" name="ManagerId" readonly>
+                                        <label for="editManagerId">Mã NPT</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="form-floating">
+                                        <input type="text" class="form-control" id="editManagerName" name="ManagerName" required>
+                                        <label for="editManagerName">Tên Người Phụ Trách</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="form-floating">
+                                        <input type="text" class="form-control" id="editPosition" name="Position" required>
+                                        <label for="editPosition">Chức Vụ</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="form-floating">
+                                        <input type="tel" class="form-control" id="editPhone" name="Phone" required>
+                                        <label for="editPhone">SĐT</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="form-floating">
+                                        <input type="email" class="form-control" id="editEmail" name="Email" required>
+                                        <label for="editEmail">Email</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="form-floating">
+                                        <select class="form-select" id="editCompanyName" name="CompanyName" required>
+                                            <option value="">-- Chọn doanh nghiệp --</option>
+                                            <option value="Công ty TNHH ABC">Công ty TNHH ABC</option>
+                                            <option value="Công ty XYZ">Công ty XYZ</option>
+                                            <option value="Công ty DEF">Công ty DEF</option>
+                                        </select>
+                                        <label for="editCompanyName">Tên Doanh Nghiệp</label>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="text-end mt-4">
+                                <button type="button" class="btn btn-outline-secondary me-2" onclick="toggleEditForm()">
+                                    <i class='bx bx-x'></i> Hủy
+                                </button>
+                                <button type="submit" class="btn btn-primary hover-scale">
+                                    <i class='bx bx-save'></i> Lưu thông tin
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        function toggleForm() {
+            const formSection = document.getElementById('formSection');
+            const listSection = document.getElementById('listSection');
+
+            if (formSection.style.display === 'none') {
+                listSection.className = 'col-md-8';
+                formSection.style.display = 'block';
+                setTimeout(() => {
+                    formSection.classList.add('show');
+                }, 50);
+            } else {
+                listSection.className = 'col-md-12';
+                formSection.classList.remove('show');
+                formSection.style.display = 'none';
+            }
+        }
+
+        function toggleEditForm() {
+            const editFormSection = document.getElementById('editFormSection');
+            const listSection = document.getElementById('listSection');
+
+            if (editFormSection.style.display === 'none') {
+                listSection.className = 'col-md-8';
+                editFormSection.style.display = 'block';
+                setTimeout(() => {
+                    editFormSection.classList.add('show');
+                }, 50);
+            } else {
+                listSection.className = 'col-md-12';
+                editFormSection.classList.remove('show');
+                editFormSection.style.display = 'none';
+            }
+        }
+
+        function editManager(managerId) {
+            // Fetch manager data and populate the form for editing
+            const managerData = {
+                id: managerId,
+                name: "Nguyễn Văn A",
+                position: "Trưởng phòng",
+                phone: "0987654321",
+                email: "nguyenvana@email.com",
+                company: "Công ty TNHH ABC"
+            };
+
+            document.getElementById('editManagerId').value = managerData.id;
+            document.getElementById('editManagerName').value = managerData.name;
+            document.getElementById('editPosition').value = managerData.position;
+            document.getElementById('editPhone').value = managerData.phone;
+            document.getElementById('editEmail').value = managerData.email;
+            document.getElementById('editCompanyName').value = managerData.company;
+
+            toggleEditForm(); // Show the form with the populated data
+        }
+
+        function confirmDelete(managerId) {
+            if (confirm('Bạn có chắc muốn xóa người phụ trách này không?')) {
+                // Proceed with deletion
+                alert('Đã xóa người phụ trách có ID: ' + managerId);
+            }
+        }
+    </script>
+}

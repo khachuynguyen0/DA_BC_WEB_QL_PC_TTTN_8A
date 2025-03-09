@@ -190,5 +190,687 @@ C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test\WebTest\ABC\ABC\obj\Debug\n
 C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.pdb
 C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.genruntimeconfig.cache
 C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test\WebTest\ABC\ABC\obj\Debug\net9.0\ref\ABC.dll
-C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\fva3hzx3td-4b37x4hbx7.gz
-C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\f6xjd6wk64-e6pm3az9iv.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\f6xjd6wk64-vts9bbtych.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\fva3hzx3td-w187nb0a3h.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\bin\Debug\net9.0\appsettings.json
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\bin\Debug\net9.0\ABC.staticwebassets.endpoints.json
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\bin\Debug\net9.0\ABC.staticwebassets.runtime.json
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\bin\Debug\net9.0\ABC.exe
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\bin\Debug\net9.0\ABC.deps.json
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\bin\Debug\net9.0\ABC.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\bin\Debug\net9.0\ABC.dll
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\bin\Debug\net9.0\ABC.pdb
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.RazorAssemblyInfo.cache
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.RazorAssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\scopedcss\bundle\ABC.styles.css
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\scopedcss\projectbundle\ABC.bundle.scp.css
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\iwmbmiuont-61n19gt1b8.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\f6xjd6wk64-vts9bbtych.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\fi1xyde9e4-bqjiyaj88i.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\0fk5om7gj3-c2jlpeoesf.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\x1l3iay6o3-erw9l3u2r3.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\1grmus771t-aexeepp0ev.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\s5vtjz6bav-d7shbmvgxk.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\m822aj1bun-ausgxo2sd3.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\tssxwca5ex-k8d9w2qqmf.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\crwlqbbfl4-cosvhxvwiu.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\lzu33pn1yj-ub07r2b239.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\taodaww2yi-fvhpjtyr6v.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\90x4mnglhb-b7pk76d08c.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\3ft9zif3hl-fsbi9cje9m.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\1h1h6dtrzb-rzd6atqjts.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\phn18qk7tc-ee0r1s7dh0.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\j7sc4a3dph-dxx9fxp4il.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\vqe0dln2s1-jd9uben2k1.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\s77x3c6nzj-khv3u5hwcm.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\80kfgnrelz-r4e9w2rdcm.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\7xmcaawjlb-lcd1t2u6c8.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\72einxxzuy-c2oey78nd0.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\z2pbshcp3u-tdbxkamptv.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\ijuoptd3p4-j5mq2jizvt.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\nuxl1yw4w9-06098lyss8.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\hzptyjof7v-nvvlpmu67g.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\oadkts5v4j-s35ty4nyc5.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\m7qtstqfyj-pj5nd1wqec.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\fchvaln2fq-46ein0sx1k.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\0b07cy47v5-v0zj4ognzu.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\gmtcb8ah72-37tfw0ft22.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\o0pae1nkrk-hrwsygsryq.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\dwlveasn5p-pk9g2wxc8p.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\kx5ftz0u6v-ft3s53vfgj.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\dhjijkdtwq-6cfz1n2cew.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\8bshvyztad-6pdc2jztkx.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\rxyycms4hl-493y06b0oq.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\o2hf2dqaif-iovd86k7lj.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\s0eps4f15j-vr1egmr9el.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\jy1ndynjna-kbrnm935zg.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\927qqfl45z-jj8uyg4cgr.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\53qjvhj9ny-y7v9cxd14o.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\zcz96qkrn4-notf2xhcfb.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\pfefmy2076-h1s4sie4z3.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\6fghdb128z-63fj8s7r0e.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\ah2mbyzg4x-0j3bgjxly4.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\cf3b634nss-47otxtyo56.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\a8u9a7lrjq-4v8eqarkd7.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\88pnauds4x-356vix0kms.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\qfzfyxklcw-83jwlth58m.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\njpmb47226-mrlpezrjn3.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\erz7j84u96-lzl9nlhx6b.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\593v3f9dc8-ag7o75518u.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\vfkrzpotwj-x0q3zqp4vz.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\fve0wrx8mr-0i3buxo5is.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\uog95airg5-o1o13a6vjx.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\zmuatmhpgi-ttgo8qnofa.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\83cib1b4gs-2z0ns9nrw6.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\mc4fl44rss-muycvpuwrr.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\rzqghrrpqh-87fc7y1x7t.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\ry45myrxc3-mlv21k5csn.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\7zqxjuhzqy-fydcrntg8k.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\ms6k3i9xn6-fydcrntg8k.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets\msbuild.ABC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets\msbuild.ABC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets\msbuild.build.ABC.props
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ABC.props
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ABC.props
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.dll
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\refint\ABC.dll
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.pdb
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\ref\ABC.dll
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test1\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\fva3hzx3td-8d9za6yiqx.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\bin\Debug\net9.0\appsettings.json
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\bin\Debug\net9.0\ABC.staticwebassets.endpoints.json
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\bin\Debug\net9.0\ABC.staticwebassets.runtime.json
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\bin\Debug\net9.0\ABC.exe
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\bin\Debug\net9.0\ABC.deps.json
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\bin\Debug\net9.0\ABC.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\bin\Debug\net9.0\ABC.dll
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\bin\Debug\net9.0\ABC.pdb
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.RazorAssemblyInfo.cache
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.RazorAssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\scopedcss\bundle\ABC.styles.css
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\scopedcss\projectbundle\ABC.bundle.scp.css
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\iwmbmiuont-61n19gt1b8.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\fi1xyde9e4-bqjiyaj88i.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\0fk5om7gj3-c2jlpeoesf.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\x1l3iay6o3-erw9l3u2r3.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\1grmus771t-aexeepp0ev.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\s5vtjz6bav-d7shbmvgxk.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\m822aj1bun-ausgxo2sd3.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\tssxwca5ex-k8d9w2qqmf.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\crwlqbbfl4-cosvhxvwiu.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\lzu33pn1yj-ub07r2b239.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\taodaww2yi-fvhpjtyr6v.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\90x4mnglhb-b7pk76d08c.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\3ft9zif3hl-fsbi9cje9m.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\1h1h6dtrzb-rzd6atqjts.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\phn18qk7tc-ee0r1s7dh0.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\j7sc4a3dph-dxx9fxp4il.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\vqe0dln2s1-jd9uben2k1.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\s77x3c6nzj-khv3u5hwcm.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\80kfgnrelz-r4e9w2rdcm.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\7xmcaawjlb-lcd1t2u6c8.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\72einxxzuy-c2oey78nd0.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\z2pbshcp3u-tdbxkamptv.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\ijuoptd3p4-j5mq2jizvt.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\nuxl1yw4w9-06098lyss8.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\hzptyjof7v-nvvlpmu67g.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\oadkts5v4j-s35ty4nyc5.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\m7qtstqfyj-pj5nd1wqec.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\fchvaln2fq-46ein0sx1k.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\0b07cy47v5-v0zj4ognzu.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\gmtcb8ah72-37tfw0ft22.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\o0pae1nkrk-hrwsygsryq.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\dwlveasn5p-pk9g2wxc8p.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\kx5ftz0u6v-ft3s53vfgj.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\dhjijkdtwq-6cfz1n2cew.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\8bshvyztad-6pdc2jztkx.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\rxyycms4hl-493y06b0oq.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\o2hf2dqaif-iovd86k7lj.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\s0eps4f15j-vr1egmr9el.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\jy1ndynjna-kbrnm935zg.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\927qqfl45z-jj8uyg4cgr.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\53qjvhj9ny-y7v9cxd14o.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\zcz96qkrn4-notf2xhcfb.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\pfefmy2076-h1s4sie4z3.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\6fghdb128z-63fj8s7r0e.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\ah2mbyzg4x-0j3bgjxly4.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\cf3b634nss-47otxtyo56.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\a8u9a7lrjq-4v8eqarkd7.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\88pnauds4x-356vix0kms.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\qfzfyxklcw-83jwlth58m.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\njpmb47226-mrlpezrjn3.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\erz7j84u96-lzl9nlhx6b.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\593v3f9dc8-ag7o75518u.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\vfkrzpotwj-x0q3zqp4vz.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\fve0wrx8mr-0i3buxo5is.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\uog95airg5-o1o13a6vjx.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\zmuatmhpgi-ttgo8qnofa.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\83cib1b4gs-2z0ns9nrw6.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\mc4fl44rss-muycvpuwrr.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\rzqghrrpqh-87fc7y1x7t.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\ry45myrxc3-mlv21k5csn.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\7zqxjuhzqy-fydcrntg8k.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\ms6k3i9xn6-fydcrntg8k.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets\msbuild.ABC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets\msbuild.ABC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets\msbuild.build.ABC.props
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ABC.props
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ABC.props
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.dll
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\refint\ABC.dll
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.pdb
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\ref\ABC.dll
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\f6xjd6wk64-jdnul3n2x1.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\fva3hzx3td-53mfu7epwb.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\bin\Debug\net9.0\appsettings.json
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\bin\Debug\net9.0\ABC.staticwebassets.endpoints.json
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\bin\Debug\net9.0\ABC.staticwebassets.runtime.json
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\bin\Debug\net9.0\ABC.exe
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\bin\Debug\net9.0\ABC.deps.json
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\bin\Debug\net9.0\ABC.runtimeconfig.json
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\bin\Debug\net9.0\ABC.dll
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\bin\Debug\net9.0\ABC.pdb
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.RazorAssemblyInfo.cache
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.RazorAssemblyInfo.cs
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\scopedcss\bundle\ABC.styles.css
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\scopedcss\projectbundle\ABC.bundle.scp.css
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\fva3hzx3td-53mfu7epwb.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\iwmbmiuont-61n19gt1b8.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\f6xjd6wk64-jdnul3n2x1.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\fi1xyde9e4-bqjiyaj88i.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\0fk5om7gj3-c2jlpeoesf.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\x1l3iay6o3-erw9l3u2r3.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\1grmus771t-aexeepp0ev.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\s5vtjz6bav-d7shbmvgxk.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\m822aj1bun-ausgxo2sd3.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\tssxwca5ex-k8d9w2qqmf.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\crwlqbbfl4-cosvhxvwiu.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\lzu33pn1yj-ub07r2b239.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\taodaww2yi-fvhpjtyr6v.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\90x4mnglhb-b7pk76d08c.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\3ft9zif3hl-fsbi9cje9m.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\1h1h6dtrzb-rzd6atqjts.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\phn18qk7tc-ee0r1s7dh0.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\j7sc4a3dph-dxx9fxp4il.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\vqe0dln2s1-jd9uben2k1.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\s77x3c6nzj-khv3u5hwcm.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\80kfgnrelz-r4e9w2rdcm.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\7xmcaawjlb-lcd1t2u6c8.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\72einxxzuy-c2oey78nd0.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\z2pbshcp3u-tdbxkamptv.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\ijuoptd3p4-j5mq2jizvt.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\nuxl1yw4w9-06098lyss8.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\hzptyjof7v-nvvlpmu67g.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\oadkts5v4j-s35ty4nyc5.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\m7qtstqfyj-pj5nd1wqec.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\fchvaln2fq-46ein0sx1k.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\0b07cy47v5-v0zj4ognzu.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\gmtcb8ah72-37tfw0ft22.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\o0pae1nkrk-hrwsygsryq.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\dwlveasn5p-pk9g2wxc8p.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\kx5ftz0u6v-ft3s53vfgj.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\dhjijkdtwq-6cfz1n2cew.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\8bshvyztad-6pdc2jztkx.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\rxyycms4hl-493y06b0oq.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\o2hf2dqaif-iovd86k7lj.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\s0eps4f15j-vr1egmr9el.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\jy1ndynjna-kbrnm935zg.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\927qqfl45z-jj8uyg4cgr.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\53qjvhj9ny-y7v9cxd14o.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\zcz96qkrn4-notf2xhcfb.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\pfefmy2076-h1s4sie4z3.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\6fghdb128z-63fj8s7r0e.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\ah2mbyzg4x-0j3bgjxly4.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\cf3b634nss-47otxtyo56.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\a8u9a7lrjq-4v8eqarkd7.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\88pnauds4x-356vix0kms.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\qfzfyxklcw-83jwlth58m.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\njpmb47226-mrlpezrjn3.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\erz7j84u96-lzl9nlhx6b.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\593v3f9dc8-ag7o75518u.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\vfkrzpotwj-x0q3zqp4vz.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\fve0wrx8mr-0i3buxo5is.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\uog95airg5-o1o13a6vjx.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\zmuatmhpgi-ttgo8qnofa.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\83cib1b4gs-2z0ns9nrw6.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\mc4fl44rss-muycvpuwrr.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\rzqghrrpqh-87fc7y1x7t.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\ry45myrxc3-mlv21k5csn.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\7zqxjuhzqy-fydcrntg8k.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\ms6k3i9xn6-fydcrntg8k.gz
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets\msbuild.ABC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets\msbuild.ABC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets\msbuild.build.ABC.props
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ABC.props
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ABC.props
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.dll
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\refint\ABC.dll
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.pdb
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.genruntimeconfig.cache
+C:\Users\ASUS\Downloads\WebTest\WebTest\ABC\ABC\obj\Debug\net9.0\ref\ABC.dll
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test2\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.sourcelink.json
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\bin\Debug\net9.0\appsettings.json
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\bin\Debug\net9.0\ABC.staticwebassets.endpoints.json
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\bin\Debug\net9.0\ABC.staticwebassets.runtime.json
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\bin\Debug\net9.0\ABC.exe
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\bin\Debug\net9.0\ABC.deps.json
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\bin\Debug\net9.0\ABC.runtimeconfig.json
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\bin\Debug\net9.0\ABC.dll
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\bin\Debug\net9.0\ABC.pdb
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.RazorAssemblyInfo.cache
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.RazorAssemblyInfo.cs
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\scopedcss\bundle\ABC.styles.css
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\scopedcss\projectbundle\ABC.bundle.scp.css
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\fva3hzx3td-53mfu7epwb.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\iwmbmiuont-61n19gt1b8.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\f6xjd6wk64-jdnul3n2x1.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\fi1xyde9e4-bqjiyaj88i.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\0fk5om7gj3-c2jlpeoesf.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\x1l3iay6o3-erw9l3u2r3.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\1grmus771t-aexeepp0ev.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\s5vtjz6bav-d7shbmvgxk.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\m822aj1bun-ausgxo2sd3.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\tssxwca5ex-k8d9w2qqmf.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\crwlqbbfl4-cosvhxvwiu.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\lzu33pn1yj-ub07r2b239.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\taodaww2yi-fvhpjtyr6v.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\90x4mnglhb-b7pk76d08c.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\3ft9zif3hl-fsbi9cje9m.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\1h1h6dtrzb-rzd6atqjts.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\phn18qk7tc-ee0r1s7dh0.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\j7sc4a3dph-dxx9fxp4il.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\vqe0dln2s1-jd9uben2k1.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\s77x3c6nzj-khv3u5hwcm.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\80kfgnrelz-r4e9w2rdcm.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\7xmcaawjlb-lcd1t2u6c8.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\72einxxzuy-c2oey78nd0.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\z2pbshcp3u-tdbxkamptv.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\ijuoptd3p4-j5mq2jizvt.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\nuxl1yw4w9-06098lyss8.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\hzptyjof7v-nvvlpmu67g.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\oadkts5v4j-s35ty4nyc5.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\m7qtstqfyj-pj5nd1wqec.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\fchvaln2fq-46ein0sx1k.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\0b07cy47v5-v0zj4ognzu.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\gmtcb8ah72-37tfw0ft22.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\o0pae1nkrk-hrwsygsryq.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\dwlveasn5p-pk9g2wxc8p.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\kx5ftz0u6v-ft3s53vfgj.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\dhjijkdtwq-6cfz1n2cew.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\8bshvyztad-6pdc2jztkx.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\rxyycms4hl-493y06b0oq.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\o2hf2dqaif-iovd86k7lj.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\s0eps4f15j-vr1egmr9el.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\jy1ndynjna-kbrnm935zg.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\927qqfl45z-jj8uyg4cgr.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\53qjvhj9ny-y7v9cxd14o.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\zcz96qkrn4-notf2xhcfb.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\pfefmy2076-h1s4sie4z3.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\6fghdb128z-63fj8s7r0e.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\ah2mbyzg4x-0j3bgjxly4.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\cf3b634nss-47otxtyo56.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\a8u9a7lrjq-4v8eqarkd7.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\88pnauds4x-356vix0kms.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\qfzfyxklcw-83jwlth58m.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\njpmb47226-mrlpezrjn3.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\erz7j84u96-lzl9nlhx6b.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\593v3f9dc8-ag7o75518u.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\vfkrzpotwj-x0q3zqp4vz.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\fve0wrx8mr-0i3buxo5is.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\uog95airg5-o1o13a6vjx.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\zmuatmhpgi-ttgo8qnofa.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\83cib1b4gs-2z0ns9nrw6.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\mc4fl44rss-muycvpuwrr.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\rzqghrrpqh-87fc7y1x7t.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\ry45myrxc3-mlv21k5csn.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\7zqxjuhzqy-fydcrntg8k.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\ms6k3i9xn6-fydcrntg8k.gz
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets\msbuild.ABC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets\msbuild.ABC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets\msbuild.build.ABC.props
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ABC.props
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ABC.props
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.dll
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\refint\ABC.dll
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.pdb
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.genruntimeconfig.cache
+C:\Users\ASUS\Downloads\WebTest\ABC\ABC\obj\Debug\net9.0\ref\ABC.dll
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\bin\Debug\net9.0\appsettings.json
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\bin\Debug\net9.0\ABC.staticwebassets.endpoints.json
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\bin\Debug\net9.0\ABC.staticwebassets.runtime.json
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\bin\Debug\net9.0\ABC.exe
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\bin\Debug\net9.0\ABC.deps.json
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\bin\Debug\net9.0\ABC.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\bin\Debug\net9.0\ABC.dll
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\bin\Debug\net9.0\ABC.pdb
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.RazorAssemblyInfo.cache
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.RazorAssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\scopedcss\bundle\ABC.styles.css
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\scopedcss\projectbundle\ABC.bundle.scp.css
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\fva3hzx3td-53mfu7epwb.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\iwmbmiuont-61n19gt1b8.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\f6xjd6wk64-jdnul3n2x1.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\fi1xyde9e4-bqjiyaj88i.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\0fk5om7gj3-c2jlpeoesf.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\x1l3iay6o3-erw9l3u2r3.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\1grmus771t-aexeepp0ev.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\s5vtjz6bav-d7shbmvgxk.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\m822aj1bun-ausgxo2sd3.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\tssxwca5ex-k8d9w2qqmf.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\crwlqbbfl4-cosvhxvwiu.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\lzu33pn1yj-ub07r2b239.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\taodaww2yi-fvhpjtyr6v.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\90x4mnglhb-b7pk76d08c.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\3ft9zif3hl-fsbi9cje9m.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\1h1h6dtrzb-rzd6atqjts.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\phn18qk7tc-ee0r1s7dh0.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\j7sc4a3dph-dxx9fxp4il.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\vqe0dln2s1-jd9uben2k1.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\s77x3c6nzj-khv3u5hwcm.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\80kfgnrelz-r4e9w2rdcm.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\7xmcaawjlb-lcd1t2u6c8.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\72einxxzuy-c2oey78nd0.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\z2pbshcp3u-tdbxkamptv.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\ijuoptd3p4-j5mq2jizvt.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\nuxl1yw4w9-06098lyss8.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\hzptyjof7v-nvvlpmu67g.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\oadkts5v4j-s35ty4nyc5.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\m7qtstqfyj-pj5nd1wqec.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\fchvaln2fq-46ein0sx1k.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\0b07cy47v5-v0zj4ognzu.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\gmtcb8ah72-37tfw0ft22.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\o0pae1nkrk-hrwsygsryq.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\dwlveasn5p-pk9g2wxc8p.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\kx5ftz0u6v-ft3s53vfgj.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\dhjijkdtwq-6cfz1n2cew.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\8bshvyztad-6pdc2jztkx.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\rxyycms4hl-493y06b0oq.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\o2hf2dqaif-iovd86k7lj.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\s0eps4f15j-vr1egmr9el.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\jy1ndynjna-kbrnm935zg.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\927qqfl45z-jj8uyg4cgr.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\53qjvhj9ny-y7v9cxd14o.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\zcz96qkrn4-notf2xhcfb.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\pfefmy2076-h1s4sie4z3.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\6fghdb128z-63fj8s7r0e.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\ah2mbyzg4x-0j3bgjxly4.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\cf3b634nss-47otxtyo56.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\a8u9a7lrjq-4v8eqarkd7.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\88pnauds4x-356vix0kms.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\qfzfyxklcw-83jwlth58m.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\njpmb47226-mrlpezrjn3.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\erz7j84u96-lzl9nlhx6b.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\593v3f9dc8-ag7o75518u.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\vfkrzpotwj-x0q3zqp4vz.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\fve0wrx8mr-0i3buxo5is.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\uog95airg5-o1o13a6vjx.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\zmuatmhpgi-ttgo8qnofa.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\83cib1b4gs-2z0ns9nrw6.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\mc4fl44rss-muycvpuwrr.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\rzqghrrpqh-87fc7y1x7t.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\ry45myrxc3-mlv21k5csn.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\7zqxjuhzqy-fydcrntg8k.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\ms6k3i9xn6-fydcrntg8k.gz
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets\msbuild.ABC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets\msbuild.ABC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets\msbuild.build.ABC.props
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ABC.props
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ABC.props
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.dll
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\refint\ABC.dll
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.pdb
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Máy tính\Code\All_File\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\ref\ABC.dll
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\bin\Debug\net9.0\appsettings.json
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\bin\Debug\net9.0\ABC.staticwebassets.endpoints.json
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\bin\Debug\net9.0\ABC.staticwebassets.runtime.json
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\bin\Debug\net9.0\ABC.exe
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\bin\Debug\net9.0\ABC.deps.json
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\bin\Debug\net9.0\ABC.runtimeconfig.json
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\bin\Debug\net9.0\ABC.dll
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\bin\Debug\net9.0\ABC.pdb
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.RazorAssemblyInfo.cache
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.RazorAssemblyInfo.cs
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.sourcelink.json
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\scopedcss\bundle\ABC.styles.css
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\scopedcss\projectbundle\ABC.bundle.scp.css
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\fva3hzx3td-53mfu7epwb.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\iwmbmiuont-61n19gt1b8.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\f6xjd6wk64-jdnul3n2x1.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\fi1xyde9e4-bqjiyaj88i.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\0fk5om7gj3-c2jlpeoesf.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\x1l3iay6o3-erw9l3u2r3.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\1grmus771t-aexeepp0ev.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\s5vtjz6bav-d7shbmvgxk.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\m822aj1bun-ausgxo2sd3.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\tssxwca5ex-k8d9w2qqmf.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\crwlqbbfl4-cosvhxvwiu.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\lzu33pn1yj-ub07r2b239.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\taodaww2yi-fvhpjtyr6v.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\90x4mnglhb-b7pk76d08c.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\3ft9zif3hl-fsbi9cje9m.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\1h1h6dtrzb-rzd6atqjts.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\phn18qk7tc-ee0r1s7dh0.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\j7sc4a3dph-dxx9fxp4il.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\vqe0dln2s1-jd9uben2k1.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\s77x3c6nzj-khv3u5hwcm.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\80kfgnrelz-r4e9w2rdcm.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\7xmcaawjlb-lcd1t2u6c8.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\72einxxzuy-c2oey78nd0.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\z2pbshcp3u-tdbxkamptv.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\ijuoptd3p4-j5mq2jizvt.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\nuxl1yw4w9-06098lyss8.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\hzptyjof7v-nvvlpmu67g.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\oadkts5v4j-s35ty4nyc5.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\m7qtstqfyj-pj5nd1wqec.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\fchvaln2fq-46ein0sx1k.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\0b07cy47v5-v0zj4ognzu.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\gmtcb8ah72-37tfw0ft22.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\o0pae1nkrk-hrwsygsryq.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\dwlveasn5p-pk9g2wxc8p.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\kx5ftz0u6v-ft3s53vfgj.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\dhjijkdtwq-6cfz1n2cew.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\8bshvyztad-6pdc2jztkx.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\rxyycms4hl-493y06b0oq.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\o2hf2dqaif-iovd86k7lj.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\s0eps4f15j-vr1egmr9el.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\jy1ndynjna-kbrnm935zg.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\927qqfl45z-jj8uyg4cgr.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\53qjvhj9ny-y7v9cxd14o.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\zcz96qkrn4-notf2xhcfb.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\pfefmy2076-h1s4sie4z3.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\6fghdb128z-63fj8s7r0e.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\ah2mbyzg4x-0j3bgjxly4.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\cf3b634nss-47otxtyo56.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\a8u9a7lrjq-4v8eqarkd7.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\88pnauds4x-356vix0kms.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\qfzfyxklcw-83jwlth58m.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\njpmb47226-mrlpezrjn3.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\erz7j84u96-lzl9nlhx6b.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\593v3f9dc8-ag7o75518u.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\vfkrzpotwj-x0q3zqp4vz.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\fve0wrx8mr-0i3buxo5is.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\uog95airg5-o1o13a6vjx.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\zmuatmhpgi-ttgo8qnofa.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\83cib1b4gs-2z0ns9nrw6.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\mc4fl44rss-muycvpuwrr.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\rzqghrrpqh-87fc7y1x7t.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\ry45myrxc3-mlv21k5csn.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\7zqxjuhzqy-fydcrntg8k.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\ms6k3i9xn6-fydcrntg8k.gz
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets\msbuild.ABC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets\msbuild.ABC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets\msbuild.build.ABC.props
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ABC.props
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ABC.props
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.dll
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\refint\ABC.dll
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.pdb
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.genruntimeconfig.cache
+C:\Users\ASUS\Downloads\Test3\WebTest\ABC\ABC\obj\Debug\net9.0\ref\ABC.dll
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\bin\Debug\net9.0\appsettings.json
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\bin\Debug\net9.0\ABC.staticwebassets.endpoints.json
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\bin\Debug\net9.0\ABC.staticwebassets.runtime.json
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\bin\Debug\net9.0\ABC.exe
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\bin\Debug\net9.0\ABC.deps.json
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\bin\Debug\net9.0\ABC.runtimeconfig.json
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\bin\Debug\net9.0\ABC.dll
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\bin\Debug\net9.0\ABC.pdb
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.AssemblyInfoInputs.cache
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.AssemblyInfo.cs
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.csproj.CoreCompileInputs.cache
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.MvcApplicationPartsAssemblyInfo.cache
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.RazorAssemblyInfo.cache
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.RazorAssemblyInfo.cs
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.sourcelink.json
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\scopedcss\bundle\ABC.styles.css
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\scopedcss\projectbundle\ABC.bundle.scp.css
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\fva3hzx3td-53mfu7epwb.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\iwmbmiuont-61n19gt1b8.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\f6xjd6wk64-jdnul3n2x1.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\fi1xyde9e4-bqjiyaj88i.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\0fk5om7gj3-c2jlpeoesf.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\x1l3iay6o3-erw9l3u2r3.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\1grmus771t-aexeepp0ev.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\s5vtjz6bav-d7shbmvgxk.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\m822aj1bun-ausgxo2sd3.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\tssxwca5ex-k8d9w2qqmf.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\crwlqbbfl4-cosvhxvwiu.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\lzu33pn1yj-ub07r2b239.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\taodaww2yi-fvhpjtyr6v.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\90x4mnglhb-b7pk76d08c.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\3ft9zif3hl-fsbi9cje9m.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\1h1h6dtrzb-rzd6atqjts.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\phn18qk7tc-ee0r1s7dh0.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\j7sc4a3dph-dxx9fxp4il.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\vqe0dln2s1-jd9uben2k1.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\s77x3c6nzj-khv3u5hwcm.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\80kfgnrelz-r4e9w2rdcm.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\7xmcaawjlb-lcd1t2u6c8.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\72einxxzuy-c2oey78nd0.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\z2pbshcp3u-tdbxkamptv.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\ijuoptd3p4-j5mq2jizvt.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\nuxl1yw4w9-06098lyss8.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\hzptyjof7v-nvvlpmu67g.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\oadkts5v4j-s35ty4nyc5.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\m7qtstqfyj-pj5nd1wqec.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\fchvaln2fq-46ein0sx1k.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\0b07cy47v5-v0zj4ognzu.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\gmtcb8ah72-37tfw0ft22.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\o0pae1nkrk-hrwsygsryq.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\dwlveasn5p-pk9g2wxc8p.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\kx5ftz0u6v-ft3s53vfgj.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\dhjijkdtwq-6cfz1n2cew.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\8bshvyztad-6pdc2jztkx.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\rxyycms4hl-493y06b0oq.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\o2hf2dqaif-iovd86k7lj.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\s0eps4f15j-vr1egmr9el.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\jy1ndynjna-kbrnm935zg.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\927qqfl45z-jj8uyg4cgr.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\53qjvhj9ny-y7v9cxd14o.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\zcz96qkrn4-notf2xhcfb.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\pfefmy2076-h1s4sie4z3.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\6fghdb128z-63fj8s7r0e.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\ah2mbyzg4x-0j3bgjxly4.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\cf3b634nss-47otxtyo56.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\a8u9a7lrjq-4v8eqarkd7.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\88pnauds4x-356vix0kms.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\qfzfyxklcw-83jwlth58m.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\njpmb47226-mrlpezrjn3.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\erz7j84u96-lzl9nlhx6b.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\593v3f9dc8-ag7o75518u.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\vfkrzpotwj-x0q3zqp4vz.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\fve0wrx8mr-0i3buxo5is.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\uog95airg5-o1o13a6vjx.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\zmuatmhpgi-ttgo8qnofa.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\83cib1b4gs-2z0ns9nrw6.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\mc4fl44rss-muycvpuwrr.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\rzqghrrpqh-87fc7y1x7t.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\ry45myrxc3-mlv21k5csn.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\7zqxjuhzqy-fydcrntg8k.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\compressed\ms6k3i9xn6-fydcrntg8k.gz
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets.build.json
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets.development.json
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets\msbuild.ABC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets\msbuild.ABC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets\msbuild.build.ABC.props
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ABC.props
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ABC.props
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets.pack.json
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.dll
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\refint\ABC.dll
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.pdb
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\ABC.genruntimeconfig.cache
+D:\Study_Everything_43GB\Devoloper_Newbie_3GB\Languages_Base\Lap_Trinh_Web\HK8A_Web_CSDL\DA_BC_WEB_QL_PC_TTTN_8A\WebTest\ABC\ABC\obj\Debug\net9.0\ref\ABC.dll

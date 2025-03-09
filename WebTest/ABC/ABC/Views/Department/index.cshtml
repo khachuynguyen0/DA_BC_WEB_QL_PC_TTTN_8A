@@ -1,0 +1,262 @@
+@{
+    ViewData["Title"] = "Khoa";
+}
+
+<div class="app-container">
+    <div class="content-wrapper">
+        <div class="row p-4">
+            <div class="@(ViewBag.ShowForm == true ? "col-md-8" : "col-md-12")" id="listSection">
+                <div class="card">
+                    <div class="card-header d-flex justify-content-between align-items-center">
+                        <h5 class="card-title mb-0">Danh sách khoa</h5>
+                        <button class="btn btn-primary hover-scale" onclick="toggleForm()">
+                            <i class='bx bx-plus'></i> Thêm khoa
+                        </button>
+                    </div>
+                    <div class="card-body">
+                        <div class="row mb-4">
+                            <div class="col-md-4">
+                                <div class="input-group">
+                                    <span class="input-group-text bg-white border-end-0">
+                                        <i class='bx bx-search'></i>
+                                    </span>
+                                    <input type="text" class="form-control border-start-0 ps-0"
+                                        placeholder="Tìm kiếm khoa...">
+                                </div>
+                            </div>
+                            <div class="col-md-8 text-end">
+                                <div class="btn-group">
+                                    <button class="btn btn-outline-secondary">
+                                        <i class='bx bx-export'></i> Xuất Excel
+                                    </button>
+                                    <button class="btn btn-outline-secondary">
+                                        <i class='bx bxs-file-pdf'></i> Xuất PDF
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="table-responsive">
+                            <table class="table table-hover">
+                                <thead>
+                                    <tr>
+                                        <th>Mã khoa</th>
+                                        <th>Tên khoa</th>
+                                        <th>Thao tác</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>K001</td>
+                                        <td>Khoa Công nghệ thông tin</td>
+                                        <td>
+                                            <button class="btn btn-sm btn-warning hover-scale" title="Chỉnh sửa"
+                                                onclick="editDepartment('K001')">
+                                                <i class='bx bx-edit'></i>
+                                            </button>
+                                            <button class="btn btn-sm btn-danger hover-scale" title="Xóa"
+                                                onclick="confirmDelete('K001')">
+                                                <i class='bx bx-trash'></i>
+                                            </button>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>K002</td>
+                                        <td>Khoa Kinh tế</td>
+                                        <td>
+                                            <button class="btn btn-sm btn-warning hover-scale" title="Chỉnh sửa"
+                                                onclick="editDepartment('K002')">
+                                                <i class='bx bx-edit'></i>
+                                            </button>
+                                            <button class="btn btn-sm btn-danger hover-scale" title="Xóa"
+                                                onclick="confirmDelete('K002')">
+                                                <i class='bx bx-trash'></i>
+                                            </button>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>K003</td>
+                                        <td>Khoa Ngoại ngữ</td>
+                                        <td>
+                                            <button class="btn btn-sm btn-warning hover-scale" title="Chỉnh sửa"
+                                                onclick="editDepartment('K003')">
+                                                <i class='bx bx-edit'></i>
+                                            </button>
+                                            <button class="btn btn-sm btn-danger hover-scale" title="Xóa"
+                                                onclick="confirmDelete('K003')">
+                                                <i class='bx bx-trash'></i>
+                                            </button>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+
+                        <nav aria-label="Page navigation" class="mt-4">
+                            <ul class="pagination justify-content-end">
+                                <li class="page-item disabled">
+                                    <a class="page-link" href="#"><i class='bx bx-chevron-left'></i></a>
+                                </li>
+                                <li class="page-item active"><a class="page-link" href="#">1</a></li>
+                                <li class="page-item"><a class="page-link" href="#">2</a></li>
+                                <li class="page-item"><a class="page-link" href="#">3</a></li>
+                                <li class="page-item">
+                                    <a class="page-link" href="#"><i class='bx bx-chevron-right'></i></a>
+                                </li>
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4" id="formSection" style="display: none;">
+                <div class="card modern-form">
+                    <div class="card-header d-flex justify-content-between align-items-center">
+                        <h5 class="card-title mb-0">
+                            <i class='bx bx-plus-circle me-2'></i>Thêm khoa
+                        </h5>
+                        <button type="button" class="btn btn-outline-secondary btn-sm" onclick="toggleForm()">
+                            <i class='bx bx-x'></i>
+                        </button>
+                    </div>
+                    <div class="card-body">
+                        <form asp-controller="Department" asp-action="Create" method="post">
+                            <div class="row g-4">
+                                <div class="col-md-12">
+                                    <div class="form-floating">
+                                        <input type="text" class="form-control" id="departmentCode" name="DepartmentCode" required>
+                                        <label for="departmentCode">Mã Khoa</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="form-floating">
+                                        <input type="text" class="form-control" id="departmentName" name="DepartmentName" required>
+                                        <label for="departmentName">Tên Khoa</label>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="text-end mt-4">
+                                <button type="button" class="btn btn-outline-secondary me-2" onclick="toggleForm()">
+                                    <i class='bx bx-x'></i> Hủy
+                                </button>
+                                <button type="submit" class="btn btn-primary hover-scale">
+                                    <i class='bx bx-save'></i> Lưu thông tin
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4" id="editFormSection" style="display: none;">
+                <div class="card modern-form">
+                    <div class="card-header d-flex justify-content-between align-items-center">
+                        <h5 class="card-title mb-0">
+                            <i class='bx bx-edit-alt me-2'></i>Thông tin khoa
+                        </h5>
+                        <button type="button" class="btn btn-outline-secondary btn-sm" onclick="toggleEditForm()">
+                            <i class='bx bx-x'></i>
+                        </button>
+                    </div>
+                    <div class="card-body">
+                        <form asp-controller="Department" asp-action="Edit" method="post">
+                            <div class="row g-4">
+                                <div class="col-md-12">
+                                    <div class="form-floating">
+                                        <input type="text" class="form-control" id="editDepartmentCode" name="DepartmentCode" readonly>
+                                        <label for="editDepartmentCode">Mã Khoa</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="form-floating">
+                                        <input type="text" class="form-control" id="editDepartmentName" name="DepartmentName" required>
+                                        <label for="editDepartmentName">Tên Khoa</label>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="text-end mt-4">
+                                <button type="button" class="btn btn-outline-secondary me-2" onclick="toggleEditForm()">
+                                    <i class='bx bx-x'></i> Hủy
+                                </button>
+                                <button type="submit" class="btn btn-primary hover-scale">
+                                    <i class='bx bx-save'></i> Lưu thông tin
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        function toggleForm() {
+            const formSection = document.getElementById('formSection');
+            const listSection = document.getElementById('listSection');
+
+            if (formSection.style.display === 'none') {
+                listSection.className = 'col-md-8';
+                formSection.style.display = 'block';
+                setTimeout(() => {
+                    formSection.classList.add('show');
+                }, 50);
+            } else {
+                listSection.className = 'col-md-12';
+                formSection.classList.remove('show');
+                formSection.style.display = 'none';
+            }
+        }
+
+        function toggleEditForm() {
+            const editFormSection = document.getElementById('editFormSection');
+            const listSection = document.getElementById('listSection');
+
+            if (editFormSection.style.display === 'none') {
+                listSection.className = 'col-md-8';
+                editFormSection.style.display = 'block';
+                setTimeout(() => {
+                    editFormSection.classList.add('show');
+                }, 50);
+            } else {
+                listSection.className = 'col-md-12';
+                editFormSection.classList.remove('show');
+                 editFormSection.style.display = 'none';
+            }
+        }
+
+        function editDepartment(departmentCode) {
+            // Fetch department data and populate the form for editing
+            let departmentData = {
+                code: departmentCode,
+                name: ""
+            };
+            
+            // Mock data for the example
+            switch(departmentCode) {
+                case "K001":
+                    departmentData.name = "Khoa Công nghệ thông tin";
+                    break;
+                case "K002":
+                    departmentData.name = "Khoa Kinh tế";
+                    break;
+                case "K003":
+                    departmentData.name = "Khoa Ngoại ngữ";
+                    break;
+            }
+
+            document.getElementById('editDepartmentCode').value = departmentData.code;
+            document.getElementById('editDepartmentName').value = departmentData.name;
+
+            toggleEditForm(); // Show the form with the populated data
+        }
+
+        function confirmDelete(departmentCode) {
+            if (confirm('Bạn có chắc muốn xóa khoa này không?')) {
+                // Proceed with deletion
+                alert('Đã xóa khoa có mã: ' + departmentCode);
+            }
+        }
+    </script>
+}

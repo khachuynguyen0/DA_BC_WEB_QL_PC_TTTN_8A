@@ -1,10 +1,10 @@
-﻿﻿document.addEventListener("DOMContentLoaded", function(event) {
+﻿document.addEventListener("DOMContentLoaded", function (event) {
     // Navigation toggle with smooth animation
     const showNavbar = (toggleId, navId, bodyId, headerId) => {
         const toggle = document.getElementById(toggleId),
-              nav = document.getElementById(navId),
-              bodypd = document.getElementById(bodyId),
-              headerpd = document.getElementById(headerId);
+            nav = document.getElementById(navId),
+            bodypd = document.getElementById(bodyId),
+            headerpd = document.getElementById(headerId);
 
         if (toggle && nav && bodypd && headerpd) {
             toggle.addEventListener('click', () => {
@@ -63,10 +63,10 @@
     initializeFormInputs();
 
     // Form toggle animation
-    window.toggleForm = function() {
+    window.toggleForm = function () {
         const listSection = document.getElementById('listSection');
         const formSection = document.getElementById('formSection');
-        
+
         if (formSection.style.display === 'none') {
             // Show form
             listSection.style.transition = 'all 0.3s ease';
@@ -143,7 +143,7 @@
         });
     });
 
-    document.getElementById('searchButton').addEventListener('click', function() {
+    document.getElementById('searchButton').addEventListener('click', function () {
         var lecturerCode = document.getElementById('lecturerCode').value;
         // Implement your search logic here
         console.log('Searching for lecturer code:', lecturerCode);
@@ -159,5 +159,135 @@
                 console.error('Error fetching search results:', error);
             });
 
+    });
+
+    // site.js
+
+    // Variables
+    const toggleElement = document.getElementById('header-toggle');
+    const navbarElement = document.getElementById('nav-bar');
+    const bodyElement = document.getElementById('body-pd');
+    const mainContent = document.querySelector('.main-content');
+
+    // Functions
+    function initSidebar() {
+        if (toggleElement && navbarElement && bodyElement) {
+            // Check saved state on load
+            const navbarOpen = localStorage.getItem('navbarOpen') === 'true';
+
+            if (navbarOpen) {
+                showSidebar();
+            } else {
+                hideSidebar();
+            }
+
+            // Toggle event
+            toggleElement.addEventListener('click', toggleSidebar);
+        }
+    }
+
+    function toggleSidebar() {
+        if (navbarElement.classList.contains('show')) {
+            hideSidebar();
+        } else {
+            showSidebar();
+        }
+
+        // Save state to localStorage
+        const navbarOpen = navbarElement.classList.contains('show');
+        localStorage.setItem('navbarOpen', navbarOpen);
+    }
+
+    function showSidebar() {
+        navbarElement.classList.add('show');
+        toggleElement.classList.add('bx-x');
+        bodyElement.classList.add('body-pd');
+
+        if (window.innerWidth > 768) {
+            mainContent.style.marginLeft = '0';
+        }
+    }
+
+    function hideSidebar() {
+        navbarElement.classList.remove('show');
+        toggleElement.classList.remove('bx-x');
+        bodyElement.classList.remove('body-pd');
+
+        if (window.innerWidth > 768) {
+            mainContent.style.marginLeft = 'var(--nav-width)';
+        }
+    }
+
+    function initAnimations() {
+        // Add animation for elements when they appear in viewport
+        const animateElements = document.querySelectorAll('.card, #formSection, .table');
+
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    setTimeout(() => {
+                        entry.target.classList.add('show');
+                    }, 100);
+                    observer.unobserve(entry.target);
+                }
+            });
+        }, { threshold: 0.1 });
+
+        animateElements.forEach(element => {
+            observer.observe(element);
+        });
+    }
+
+    function highlightCurrentNav() {
+        // Get current controller from URL or data attribute
+        const pathParts = window.location.pathname.split('/');
+        let currentController = '';
+
+        if (pathParts.length > 1 && pathParts[1]) {
+            currentController = pathParts[1].toLowerCase();
+        } else {
+            currentController = 'home';
+        }
+
+        // Find and highlight the nav item
+        const navItem = document.getElementById(`nav-${currentController}`);
+        if (navItem) {
+            document.querySelectorAll('.nav_link').forEach(link => link.classList.remove('active'));
+            navItem.classList.add('active');
+        }
+    }
+
+    function initFormControls() {
+        // Add animation on focus for form controls
+        const formControls = document.querySelectorAll('.form-control, .form-select');
+
+        formControls.forEach(control => {
+            control.addEventListener('focus', function () {
+                this.parentElement.classList.add('focused');
+            });
+
+            control.addEventListener('blur', function () {
+                this.parentElement.classList.remove('focused');
+            });
+        });
+    }
+
+    // Initialize on DOM loaded
+    document.addEventListener('DOMContentLoaded', function () {
+        initSidebar();
+        initAnimations();
+        highlightCurrentNav();
+        initFormControls();
+
+        // Add responsive handlers
+        window.addEventListener('resize', function () {
+            if (window.innerWidth <= 768) {
+                mainContent.style.marginLeft = '0';
+            } else {
+                if (!navbarElement.classList.contains('show')) {
+                    mainContent.style.marginLeft = 'var(--nav-width)';
+                }
+            }
+        });
     });
 });

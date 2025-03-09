@@ -1,5 +1,5 @@
 @{
-    ViewData["Title"] = "Quản lý Sinh viên";
+    ViewData["Title"] = "Sinh Viên";
 }
 
 <div class="app-container">
@@ -42,7 +42,7 @@
                                         <th>Mã SV</th>
                                         <th>Họ tên</th>
                                         <th>Lớp</th>
-                                        <th>Ngành</th>
+                                        <th>Khoa</th>
                                         <th>GVHD</th>
                                         <th>Doanh nghiệp</th>
                                         <th>Thao tác</th>
@@ -57,10 +57,10 @@
                                         <td>Trần Văn B</td>
                                         <td>Công ty ABC</td>
                                         <td>
-                                            <button class="btn btn-sm btn-warning hover-scale" title="Chỉnh sửa">
+                                            <button class="btn btn-sm btn-warning hover-scale" title="Chỉnh sửa" onclick="editStudent('SV001')">
                                                 <i class='bx bx-edit'></i>
                                             </button>
-                                            <button class="btn btn-sm btn-danger hover-scale" title="Xóa">
+                                            <button class="btn btn-sm btn-danger hover-scale" title="Xóa" onclick="confirmDelete('SV001')">
                                                 <i class='bx bx-trash'></i>
                                             </button>
                                         </td>
@@ -90,7 +90,7 @@
                 <div class="card modern-form">
                     <div class="card-header d-flex justify-content-between align-items-center">
                         <h5 class="card-title mb-0">
-                            <i class='bx bx-user-plus me-2'></i>Thêm sinh viên mới
+                            <i class='bx bx-user-plus me-2'></i>Thêm sinh viên
                         </h5>
                         <button type="button" class="btn btn-outline-secondary btn-sm" onclick="toggleForm()">
                             <i class='bx bx-x'></i>
@@ -102,51 +102,163 @@
                                 <div class="col-md-12">
                                     <div class="form-floating">
                                         <input type="text" class="form-control" id="studentId" name="StudentId" required>
-                                        <label for="studentId">Mã sinh viên</label>
+                                        <label for="studentId">Mã Sinh Viên</label>
                                     </div>
                                 </div>
                                 <div class="col-md-12">
                                     <div class="form-floating">
                                         <input type="text" class="form-control" id="fullName" name="FullName" required>
-                                        <label for="fullName">Họ và tên</label>
+                                        <label for="fullName">Họ Và Tên</label>
                                     </div>
                                 </div>
                                 <div class="col-md-12">
                                     <div class="form-floating">
-                                        <select class="form-select" id="class" name="Class" required>
-                                            <option value="">-- Chọn lớp --</option>
-                                            <option>CNTT1</option>
-                                            <option>CNTT2</option>
-                                        </select>
-                                        <label for="class">Lớp</label>
+                                        <input type="text" class="form-control" id="classId" name="ClassId" required>
+                                        <label for="classId">Lớp</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="form-floating">
+                                        <input type="text" class="form-control" id="sdt" name="Sdt" required>
+                                        <label for="sdt">SĐT</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="form-floating">
+                                        <input type="text" class="form-control" id="email" name="Email" required>
+                                        <label for="email">Email</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="form-floating">
+                                        <input type="text" class="form-control" id="teacherName" name="TeacherName" required>
+                                        <label for="teacherName">Tên Giảng Viên</label>
                                     </div>
                                 </div>
                                 <div class="col-md-12">
                                     <div class="form-floating">
                                         <select class="form-select" id="major" name="Major" required>
-                                            <option value="">-- Chọn ngành --</option>
+                                            <option value="">-- Khoa --</option>
                                             <option>Công nghệ thông tin</option>
-                                            <option>Hệ thống thông tin</option>
+                                            <option>Thiết Kế Thời Trang</option>
+                                            <option>Marketing</option>
+                                            <option>Truyền Thông</option>
+                                            <option>Quản Trị Kinh Doanh</option>
                                         </select>
-                                        <label for="major">Ngành</label>
+                                        <label for="major">Khoa</label>
                                     </div>
                                 </div>
                                 <div class="col-md-12">
                                     <div class="form-floating">
-                                        <input type="email" class="form-control" id="email" name="Email" required>
-                                        <label for="email">Email sinh viên</label>
+                                        <select class="form-select" id="project" name="Project" required>
+                                            <option value="">-- Đề Tài --</option>
+                                        </select>
+                                        <label for="project">Đề Tài</label>
                                     </div>
                                 </div>
                                 <div class="col-md-12">
                                     <div class="form-floating">
-                                        <input type="tel" class="form-control" id="phone" name="Phone" required>
-                                        <label for="phone">Số điện thoại</label>
+                                        <select class="form-select" id="supervisor" name="Supervisor" required>
+                                            <option value="">-- Người Phụ Trách --</option>
+                                        </select>
+                                        <label for="supervisor">Người Phụ Trách</label>
                                     </div>
                                 </div>
                             </div>
-                            
                             <div class="text-end mt-4">
                                 <button type="button" class="btn btn-outline-secondary me-2" onclick="toggleForm()">
+                                    <i class='bx bx-x'></i> Hủy
+                                </button>
+                                <button type="submit" class="btn btn-primary hover-scale">
+                                    <i class='bx bx-save'></i> Lưu thông tin
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4" id="editFormSection" style="display: none;">
+                <div class="card modern-form">
+                    <div class="card-header d-flex justify-content-between align-items-center">
+                        <h5 class="card-title mb-0">
+                            <i class='bx bx-edit-alt me-2'></i>Thông tin sinh viên
+                        </h5>
+                        <button type="button" class="btn btn-outline-secondary btn-sm" onclick="toggleEditForm()">
+                            <i class='bx bx-x'></i>
+                        </button>
+                    </div>
+                    <div class="card-body">
+                        <form asp-controller="Student" asp-action="Edit" method="post">
+                            <div class="row g-4">
+                                <div class="col-md-12">
+                                    <div class="form-floating">
+                                        <input type="text" class="form-control" id="editStudentId" name="StudentId" required>
+                                        <label for="editStudentId">Mã Sinh Viên</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="form-floating">
+                                        <input type="text" class="form-control" id="editFullName" name="FullName" required>
+                                        <label for="editFullName">Họ Và Tên</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="form-floating">
+                                        <input type="text" class="form-control" id="editClassId" name="ClassId" required>
+                                        <label for="editClassId">Lớp</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="form-floating">
+                                        <input type="text" class="form-control" id="editSdt" name="Sdt" required>
+                                        <label for="editSdt">SĐT</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="form-floating">
+                                        <input type="text" class="form-control" id="editEmail" name="Email" required>
+                                        <label for="editEmail">Email</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="form-floating">
+                                        <input type="text" class="form-control" id="editTeacherName" name="TeacherName" required>
+                                        <label for="editTeacherName">Tên Giảng Viên</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="form-floating">
+                                        <select class="form-select" id="editMajor" name="Major" required>
+                                            <option value="">-- Chọn Khoa --</option>
+                                            <option>Công nghệ thông tin</option>
+                                            <option>Thiết Kế Thời Trang</option>
+                                            <option>Marketing</option>
+                                            <option>Truyền Thông</option>
+                                            <option>Quản Trị Kinh Doanh</option>
+                                        </select>
+                                        <label for="editMajor">Khoa</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="form-floating">
+                                        <select class="form-select" id="editProject" name="Project" required>
+                                            <option value="">-- Đề Tài --</option>
+                                        </select>
+                                        <label for="editProject">Đề Tài</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="form-floating">
+                                        <select class="form-select" id="editSupervisor" name="Supervisor" required>
+                                            <option value="">-- Người Phụ Trách --</option>
+                                        </select>
+                                        <label for="editSupervisor">Người Phụ Trách</label>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="text-end mt-4">
+                                <button type="button" class="btn btn-outline-secondary me-2" onclick="toggleEditForm()">
                                     <i class='bx bx-x'></i> Hủy
                                 </button>
                                 <button type="submit" class="btn btn-primary hover-scale">
@@ -161,24 +273,74 @@
     </div>
 </div>
 
+<style>
+    /* Loại bỏ hoàn toàn hiệu ứng transition */
+    #formSection, #editFormSection {
+        /* Không cần opacity hay transition nữa */
+    }
+</style>
+
 @section Scripts {
     <script>
+        function editStudent(studentId) {
+            // Fetch student data and populate the form for editing
+            const studentData = {
+                id: studentId,
+                fullName: "Nguyễn Văn A",
+                classId: "CNTT1",
+                major: "Công nghệ thông tin",
+                teacherName: "Trần Văn B",
+                company: "Công ty ABC",
+                phone: "0123456789",
+                email: "nguyenvana@example.com"
+            };
+
+            document.getElementById('editStudentId').value = studentData.id;
+            document.getElementById('editFullName').value = studentData.fullName;
+            document.getElementById('editClassId').value = studentData.classId;
+            document.getElementById('editSdt').value = studentData.phone;
+            document.getElementById('editEmail').value = studentData.email;
+            document.getElementById('editTeacherName').value = studentData.teacherName;
+            document.getElementById('editMajor').value = studentData.major;
+            // Populate other fields as necessary (e.g., Project, Supervisor if needed)
+
+            toggleEditForm(); // Show the form with the populated data
+        }
+
+        function confirmDelete(studentId) {
+            if (confirm('Bạn có chắc muốn xóa sinh viên này không?')) {
+                // Proceed with deletion
+                alert('Deleted student with ID: ' + studentId);
+            }
+        }
+
+        function toggleEditForm() {
+            const editFormSection = document.getElementById('editFormSection');
+            const listSection = document.getElementById('listSection');
+            const formSection = document.getElementById('formSection');
+
+            if (editFormSection.style.display === 'none') {
+                listSection.className = 'col-md-8';
+                editFormSection.style.display = 'block';
+                formSection.style.display = 'none'; // Ẩn form thêm nếu đang mở
+            } else {
+                listSection.className = 'col-md-12';
+                editFormSection.style.display = 'none';
+            }
+        }
+
         function toggleForm() {
             const listSection = document.getElementById('listSection');
             const formSection = document.getElementById('formSection');
-            
+            const editFormSection = document.getElementById('editFormSection');
+
             if (formSection.style.display === 'none') {
                 listSection.className = 'col-md-8';
                 formSection.style.display = 'block';
-                setTimeout(() => {
-                    formSection.classList.add('show');
-                }, 50);
+                editFormSection.style.display = 'none'; // Ẩn form chỉnh sửa nếu đang mở
             } else {
                 listSection.className = 'col-md-12';
-                formSection.classList.remove('show');
-                setTimeout(() => {
-                    formSection.style.display = 'none';
-                }, 300);
+                formSection.style.display = 'none';
             }
         }
     </script>

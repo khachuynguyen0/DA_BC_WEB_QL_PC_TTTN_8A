@@ -1,5 +1,5 @@
 @{
-    ViewData["Title"] = "Quản lý Doanh nghiệp";
+    ViewData["Title"] = "Doanh nghiệp";
 }
 
 <div class="app-container">
@@ -20,7 +20,8 @@
                                     <span class="input-group-text bg-white border-end-0">
                                         <i class='bx bx-search'></i>
                                     </span>
-                                    <input type="text" class="form-control border-start-0 ps-0" placeholder="Tìm kiếm doanh nghiệp...">
+                                    <input type="text" class="form-control border-start-0 ps-0"
+                                        placeholder="Tìm kiếm doanh nghiệp...">
                                 </div>
                             </div>
                             <div class="col-md-8 text-end">
@@ -43,7 +44,6 @@
                                         <th>Tên doanh nghiệp</th>
                                         <th>Địa chỉ</th>
                                         <th>Lĩnh vực</th>
-                                        <th>Người liên hệ</th>
                                         <th>SĐT</th>
                                         <th>Số SV tiếp nhận</th>
                                         <th>Thao tác</th>
@@ -55,14 +55,16 @@
                                         <td>Công ty TNHH ABC</td>
                                         <td>123 Nguyễn Văn Linh, Đà Nẵng</td>
                                         <td>Phần mềm</td>
-                                        <td>Nguyễn Văn X</td>
                                         <td>0987654321</td>
                                         <td><span class="badge bg-success">5</span></td>
                                         <td>
-                                            <button class="btn btn-sm btn-warning hover-scale" title="Chỉnh sửa">
+                                            <button class="btn btn-sm btn-warning hover-scale" title="Chỉnh sửa"
+                                                onclick="editCompany('DN001')">
+
                                                 <i class='bx bx-edit'></i>
                                             </button>
-                                            <button class="btn btn-sm btn-danger hover-scale" title="Xóa">
+                                            <button class="btn btn-sm btn-danger hover-scale" title="Xóa"
+                                                onclick="confirmDelete('DN001')">
                                                 <i class='bx bx-trash'></i>
                                             </button>
                                         </td>
@@ -92,7 +94,7 @@
                 <div class="card modern-form">
                     <div class="card-header d-flex justify-content-between align-items-center">
                         <h5 class="card-title mb-0">
-                            <i class='bx bx-building-house me-2'></i>Thêm doanh nghiệp mới
+                            <i class='bx bx-user-plus me-2'></i>Thêm doanh nghiệp hợp tác
                         </h5>
                         <button type="button" class="btn btn-outline-secondary btn-sm" onclick="toggleForm()">
                             <i class='bx bx-x'></i>
@@ -103,67 +105,88 @@
                             <div class="row g-4">
                                 <div class="col-md-12">
                                     <div class="form-floating">
-                                        <input type="text" class="form-control" id="companyId" name="CompanyId" required>
-                                        <label for="companyId">Mã doanh nghiệp</label>
+                                        <input type="text" class="form-control" id="companyId" name="CompanyId"
+                                            required>
+                                        <label for="companyId">Mã Doanh Nghiệp</label>
                                     </div>
                                 </div>
                                 <div class="col-md-12">
                                     <div class="form-floating">
-                                        <input type="text" class="form-control" id="companyName" name="CompanyName" required>
-                                        <label for="companyName">Tên doanh nghiệp</label>
+                                        <input type="text" class="form-control" id="companyName" name="CompanyName"
+                                            required>
+                                        <label for="companyName">Tên Doanh Nghiệp</label>
                                     </div>
                                 </div>
                                 <div class="col-md-12">
                                     <div class="form-floating">
-                                        <textarea class="form-control" id="address" name="Address" style="height: 100px" required></textarea>
-                                        <label for="address">Địa chỉ</label>
+                                        <textarea class="form-control" id="address" name="Address" style="height: 100px"
+                                            required></textarea>
+                                        <label for="address">Địa Chỉ</label>
                                     </div>
                                 </div>
                                 <div class="col-md-12">
                                     <div class="form-floating">
-                                        <select class="form-select" id="field" name="Field" required>
-                                            <option value="">Chọn lĩnh vực</option>
-                                            <option>Phần mềm</option>
-                                            <option>Phần cứng</option>
-                                            <option>Tích hợp hệ thống</option>
-                                        </select>
-                                        <label for="field">Lĩnh vực</label>
-                                    </div>
-                                </div>
-                                <div class="col-md-12">
-                                    <div class="form-floating">
-                                        <input type="text" class="form-control" id="contactPerson" name="ContactPerson" required>
-                                        <label for="contactPerson">Người liên hệ</label>
-                                    </div>
-                                </div>
-                                <div class="col-md-12">
-                                    <div class="form-floating">
-                                        <input type="tel" class="form-control" id="phone" name="Phone" required>
-                                        <label for="phone">Số điện thoại</label>
-                                    </div>
-                                </div>
-                                <div class="col-md-12">
-                                    <div class="form-floating">
-                                        <input type="email" class="form-control" id="email" name="Email" required>
-                                        <label for="email">Email</label>
-                                    </div>
-                                </div>
-                                <div class="col-md-12">
-                                    <div class="form-floating">
-                                        <input type="url" class="form-control" id="website" name="Website">
-                                        <label for="website">Website</label>
-                                    </div>
-                                </div>
-                                <div class="col-md-12">
-                                    <div class="form-floating">
-                                        <input type="number" class="form-control" id="maxInterns" name="MaxInterns" required>
-                                        <label for="maxInterns">Số lượng SV có thể tiếp nhận</label>
+                                        <input type="text" class="form-control" id="field" name="Field" required>
+                                        <label for="field">Lĩnh Vực</label>
                                     </div>
                                 </div>
                             </div>
-                            
                             <div class="text-end mt-4">
                                 <button type="button" class="btn btn-outline-secondary me-2" onclick="toggleForm()">
+                                    <i class='bx bx-x'></i> Hủy
+                                </button>
+                                <button type="submit" class="btn btn-primary hover-scale">
+                                    <i class='bx bx-save'></i> Lưu thông tin
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4" id="editFormSection" style="display: none;">
+                <div class="card modern-form">
+                    <div class="card-header d-flex justify-content-between align-items-center">
+                        <h5 class="card-title mb-0">
+                            <i class='bx bx-edit-alt me-2'></i>Thông tin doanh nghiệp
+                        </h5>
+                        <button type="button" class="btn btn-outline-secondary btn-sm" onclick="toggleEditForm()">
+                            <i class='bx bx-x'></i>
+                        </button>
+                    </div>
+                    <div class="card-body">
+                        <form asp-controller="Company" asp-action="Edit" method="post">
+                            <div class="row g-4">
+                                <div class="col-md-12">
+                                    <div class="form-floating">
+                                        <input type="text" class="form-control" id="editCompanyId" name="CompanyId"
+                                            required>
+                                        <label for="editCompanyId">Mã Doanh Nghiệp</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="form-floating">
+                                        <input type="text" class="form-control" id="editCompanyName" name="CompanyName"
+                                            required>
+                                        <label for="editCompanyName">Tên Doanh Nghiệp</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="form-floating">
+                                        <textarea class="form-control" id="editAddress" name="Address"
+                                            style="height: 100px" required></textarea>
+                                        <label for="editAddress">Địa Chỉ</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-12">
+                                    <div class="form-floating">
+                                        <input type="text" class="form-control" id="editField" name="Field" required>
+                                        <label for="editField">Lĩnh Vực</label>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="text-end mt-4">
+                                <button type="button" class="btn btn-outline-secondary me-2" onclick="toggleEditForm()">
                                     <i class='bx bx-x'></i> Hủy
                                 </button>
                                 <button type="submit" class="btn btn-primary hover-scale">
@@ -180,22 +203,46 @@
 
 @section Scripts {
     <script>
-        function toggleForm() {
+        function toggleEditForm() {
+            const editFormSection = document.getElementById('editFormSection');
             const listSection = document.getElementById('listSection');
-            const formSection = document.getElementById('formSection');
-            
-            if (formSection.style.display === 'none') {
+
+            if (editFormSection.style.display === 'none') {
                 listSection.className = 'col-md-8';
-                formSection.style.display = 'block';
-                formSection.classList.remove('hide');
-                formSection.classList.add('show', 'slide-in');
+                editFormSection.style.display = 'block';
+                setTimeout(() => {
+                    editFormSection.classList.add('show');
+                }, 50);
             } else {
                 listSection.className = 'col-md-12';
-                formSection.classList.remove('show');
-                formSection.classList.add('hide');
-                setTimeout(() => {
-                    formSection.style.display = 'none';
-                }, 300);
+                editFormSection.classList.remove('show');
+                editFormSection.style.display = 'none';
+            }
+        }
+
+        function editCompany(companyId) {
+            // Fetch company data and populate the form for editing
+            const companyData = {
+                id: companyId,
+                name: "Công ty ABC",
+                address: "123/abc",
+                field: "Phần mềm",
+            };
+
+            document.getElementById('editCompanyId').value = companyData.id;
+            document.getElementById('editCompanyName').value = companyData.name;
+            document.getElementById('editAddress').value = companyData.address; // Updated ID
+            document.getElementById('editField').value = companyData.field; // Updated ID
+
+            toggleEditForm(); // Show the form with the populated data
+        }
+
+
+
+        function confirmDelete(companyId) {
+            if (confirm('Bạn có chắc muốn xóa doanh nghiệp này không?')) {
+                // Proceed with deletion
+                alert('Deleted company with ID: ' + companyId);
             }
         }
     </script>

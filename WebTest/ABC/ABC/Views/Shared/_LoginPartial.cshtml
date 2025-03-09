@@ -4,7 +4,8 @@
         <div class="dropdown">
             <a href="#" class="d-flex align-items-center text-decoration-none dropdown-toggle" id="userDropdown" data-bs-toggle="dropdown" aria-expanded="false">
                 <img src="https://github.com/mdo.png" alt="User" width="32" height="32" class="rounded-circle me-2">
-                <span class="d-none d-md-inline">@User.Identity.Name</span>
+<span class="d-none d-md-inline">@ViewBag.Username</span>
+
             </a>
             <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="userDropdown">
                 <li><a class="dropdown-item" href="/Account/Profile"><i class='bx bx-user me-2'></i>Thông tin cá nhân</a></li>
@@ -23,6 +24,6 @@ else
 {
     <div class="d-flex align-items-center">
         <a href="/Account/Login" class="btn btn-outline-primary me-2">Đăng nhập</a>
-        <a href="/Account/Register" class="btn btn-primary">Đăng ký</a>
+        
     </div>
 }
